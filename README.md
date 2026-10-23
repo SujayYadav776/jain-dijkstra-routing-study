@@ -2,6 +2,8 @@
 
 Open **index.html** in a browser. No server, sign-in or internet connection is required for the explorer. External source links need internet.
 
+Live site: **[jain-dijkstra-routing-study.vercel.app](https://jain-dijkstra-routing-study.vercel.app/)**. Vercel access protection is enabled, so you may need permission to view it.
+
 ## Deliverables
 - output/pdf/JAIN-Routing-Report-Updated.pdf - full report, phase-by-phase session guide and printable student worksheet.
 - output/JAIN-Routing-Presentation-Manipal.pptx - editable presentation with speaker notes.
