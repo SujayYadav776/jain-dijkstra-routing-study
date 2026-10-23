@@ -1,0 +1,218 @@
+{
+  "geocodes": {
+    "B": {
+      "q": "Ragigudda Bengaluru",
+      "url": "https://nominatim.openstreetmap.org/search?q=Ragigudda%20Bengaluru&format=jsonv2&limit=3",
+      "markdown": "```json\n[{\"place_id\":252378057,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":6495482465,\"lat\":\"12.9167987\",\"lon\":\"77.5933846\",\"category\":\"highway\",\"type\":\"bus_stop\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"highway\",\"name\":\"Ragigudda\",\"display_name\":\"Ragigudda, Marenahalli Road, Marenahalli, Pattabhirama Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560078, India\",\"boundingbox\":[\"12.9167487\",\"12.9168487\",\"77.5933346\",\"77.5934346\"]},{\"place_id\":253132680,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":13046011006,\"lat\":\"12.9170892\",\"lon\":\"77.5886980\",\"category\":\"railway\",\"type\":\"stop\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"railway\",\"name\":\"Ragigudda\",\"display_name\":\"Ragigudda, Ragigudda-Silk Board Integrated Flyover, DK Naik Nagar, Jayanagar 9th Block, Marenahalli South, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560041, India\",\"boundingbox\":[\"12.9170392\",\"12.9171392\",\"77.5886480\",\"77.5887480\"]},{\"place_id\":253085672,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":13046011005,\"lat\":\"12.9170748\",\"lon\":\"77.5877835\",\"category\":\"railway\",\"type\":\"stop\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"railway\",\"name\":\"Ragigudda\",\"display_name\":\"Ragigudda, Marenahalli Road, Marenahalli, Marenahalli South, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560078, India\",\"boundingbox\":[\"12.9170248\",\"12.9171248\",\"77.5877335\",\"77.5878335\"]}]\n```",
+      "metadata": {
+        "scrapeId": "01a14ac9-5f69-77d4-8add-f22bd0d63cfd",
+        "sourceURL": "https://nominatim.openstreetmap.org/search?q=Ragigudda%20Bengaluru&format=jsonv2&limit=3",
+        "url": "https://nominatim.openstreetmap.org/search?q=Ragigudda%20Bengaluru&format=jsonv2&limit=3",
+        "statusCode": 200,
+        "contentType": "application/json; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "0c4eb454-23d5-46e6-8dae-6d21654b5f10",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    "C": {
+      "q": "Sri Jayadeva Institute Bengaluru",
+      "url": "https://nominatim.openstreetmap.org/search?q=Sri%20Jayadeva%20Institute%20Bengaluru&format=jsonv2&limit=3",
+      "markdown": "```json\n[{\"place_id\":252119737,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"way\",\"osm_id\":40678727,\"lat\":\"12.9181171\",\"lon\":\"77.5992404\",\"category\":\"amenity\",\"type\":\"hospital\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"amenity\",\"name\":\"Sri Jayadeva Institute Of Cardiology\",\"display_name\":\"Sri Jayadeva Institute Of Cardiology, Bannerghatta Road, J.P Nagar, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560041, India\",\"boundingbox\":[\"12.9168789\",\"12.9201730\",\"77.5985958\",\"77.5999343\"]},{\"place_id\":251885927,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":6882713318,\"lat\":\"12.9180569\",\"lon\":\"77.5991875\",\"category\":\"amenity\",\"type\":\"blood_bank\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"amenity\",\"name\":\"Sri Jayadeva Institute of Cardiology Blood Bank\",\"display_name\":\"Sri Jayadeva Institute of Cardiology Blood Bank, Bannerghatta Road, J.P Nagar, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560069, India\",\"boundingbox\":[\"12.9180069\",\"12.9181069\",\"77.5991375\",\"77.5992375\"]}]\n```",
+      "metadata": {
+        "scrapeId": "01a14ac9-7606-76ea-8a13-4186ed5f97bc",
+        "sourceURL": "https://nominatim.openstreetmap.org/search?q=Sri%20Jayadeva%20Institute%20Bengaluru&format=jsonv2&limit=3",
+        "url": "https://nominatim.openstreetmap.org/search?q=Sri%20Jayadeva%20Institute%20Bengaluru&format=jsonv2&limit=3",
+        "statusCode": 200,
+        "contentType": "application/json; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "b69b37a8-79ea-4f2e-9ed2-dcecbec16b51",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    "D": {
+      "q": "Sagar Hospitals Jayanagar Bengaluru",
+      "url": "https://nominatim.openstreetmap.org/search?q=Sagar%20Hospitals%20Jayanagar%20Bengaluru&format=jsonv2&limit=1",
+      "markdown": "```json\n[{\"place_id\":251949818,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"way\",\"osm_id\":442048030,\"lat\":\"12.9279480\",\"lon\":\"77.5998498\",\"category\":\"amenity\",\"type\":\"hospital\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"amenity\",\"name\":\"Sagar Hospitals\",\"display_name\":\"Sagar Hospitals, Bannerghatta Road, Jayanagar, Tilak Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560041, India\",\"boundingbox\":[\"12.9275145\",\"12.9282826\",\"77.5993228\",\"77.6003872\"]}]\n```",
+      "metadata": {
+        "scrapeId": "01a14ac8-e89a-73a9-9c12-0a1e1bbd0f02",
+        "sourceURL": "https://nominatim.openstreetmap.org/search?q=Sagar%20Hospitals%20Jayanagar%20Bengaluru&format=jsonv2&limit=1",
+        "url": "https://nominatim.openstreetmap.org/search?q=Sagar%20Hospitals%20Jayanagar%20Bengaluru&format=jsonv2&limit=1",
+        "statusCode": 200,
+        "contentType": "application/json; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "b04121aa-40cd-42b5-8a10-61aa31aaaed9",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    "E": {
+      "q": "Jayanagar bus station",
+      "url": "https://nominatim.openstreetmap.org/search?q=Jayanagar%20bus%20station&format=jsonv2&limit=3",
+      "markdown": "```json\n[{\"place_id\":249153521,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"way\",\"osm_id\":752917438,\"lat\":\"12.9281714\",\"lon\":\"77.5838685\",\"category\":\"amenity\",\"type\":\"bus_station\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"amenity\",\"name\":\"Jayanagar TTMC\",\"display_name\":\"Jayanagar TTMC, 9th Main Road, Geetha Colony, Jayanagar 4th Block, Tilak Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560011, India\",\"boundingbox\":[\"12.9279169\",\"12.9285804\",\"77.5836709\",\"77.5850103\"]},{\"place_id\":243989344,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":7072071786,\"lat\":\"28.3167067\",\"lon\":\"81.3867001\",\"category\":\"amenity\",\"type\":\"bus_station\",\"place_rank\":30,\"importance\":5.000152590214416e-05,\"addresstype\":\"amenity\",\"name\":\"JaiNagar Barbardiya\",\"display_name\":\"JaiNagar Barbardiya, Gulariya_Rammapur Road, Barbardiya-06, Barbardiya, Bardiya, Lumbini Province, Nepal\",\"boundingbox\":[\"28.3166567\",\"28.3167567\",\"81.3866501\",\"81.3867501\"]}]\n```",
+      "metadata": {
+        "scrapeId": "01a14ac9-8d15-70f2-9fa7-4e1691ceacdb",
+        "sourceURL": "https://nominatim.openstreetmap.org/search?q=Jayanagar%20bus%20station&format=jsonv2&limit=3",
+        "url": "https://nominatim.openstreetmap.org/search?q=Jayanagar%20bus%20station&format=jsonv2&limit=3",
+        "statusCode": 200,
+        "contentType": "application/json; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "f90e8304-1efe-499d-8ad2-6036bf058f22",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    "F": {
+      "q": "Jayanagar Metro Station",
+      "url": "https://nominatim.openstreetmap.org/search?q=Jayanagar%20Metro%20Station&format=jsonv2&limit=2",
+      "markdown": "```json\n[{\"place_id\":252120596,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":12462601105,\"lat\":\"12.9287715\",\"lon\":\"77.5803450\",\"category\":\"highway\",\"type\":\"bus_stop\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"highway\",\"name\":\"Jayanagara Metro Station\",\"display_name\":\"Jayanagara Metro Station, 30th Cross Road, Geetha Colony, Jayanagar 4th Block, Byrasandra, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560011, India\",\"boundingbox\":[\"12.9287215\",\"12.9288215\",\"77.5802950\",\"77.5803950\"]}]\n```",
+      "metadata": {
+        "scrapeId": "01a14ac9-e6be-74eb-bef6-793be5ca6839",
+        "sourceURL": "https://nominatim.openstreetmap.org/search?q=Jayanagar%20Metro%20Station&format=jsonv2&limit=2",
+        "url": "https://nominatim.openstreetmap.org/search?q=Jayanagar%20Metro%20Station&format=jsonv2&limit=2",
+        "statusCode": 200,
+        "contentType": "application/json; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "fca6f960-1392-4e2d-85c4-0c2362e2cd59",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    "G": {
+      "q": "Rashtreeya Vidyalaya Road Bengaluru",
+      "url": "https://nominatim.openstreetmap.org/search?q=Rashtreeya%20Vidyalaya%20Road%20Bengaluru&format=jsonv2&limit=2",
+      "markdown": "```json\n[{\"place_id\":425000124,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":13046011008,\"lat\":\"12.9219877\",\"lon\":\"77.5800465\",\"category\":\"railway\",\"type\":\"stop\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"railway\",\"name\":\"Rashtreeya Vidyalaya Road\",\"display_name\":\"Rashtreeya Vidyalaya Road, Rashtriya Vidyalaya Road, Pattabhirama Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560070, India\",\"boundingbox\":[\"12.9219377\",\"12.9220377\",\"77.5799965\",\"77.5800965\"]},{\"place_id\":251885539,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":1565099104,\"lat\":\"12.9209581\",\"lon\":\"77.5802928\",\"category\":\"railway\",\"type\":\"stop\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"railway\",\"name\":\"Rashtreeya Vidyalaya Road\",\"display_name\":\"Rashtreeya Vidyalaya Road, Rashtriya Vidyalaya Road, Pattabhirama Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560041, India\",\"boundingbox\":[\"12.9209081\",\"12.9210081\",\"77.5802428\",\"77.5803428\"]}]\n```",
+      "metadata": {
+        "scrapeId": "01a14ac9-fe36-772d-a6a5-30ed25f1e4e1",
+        "sourceURL": "https://nominatim.openstreetmap.org/search?q=Rashtreeya%20Vidyalaya%20Road%20Bengaluru&format=jsonv2&limit=2",
+        "url": "https://nominatim.openstreetmap.org/search?q=Rashtreeya%20Vidyalaya%20Road%20Bengaluru&format=jsonv2&limit=2",
+        "statusCode": 200,
+        "contentType": "application/json; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "91ce095f-6f41-4092-9e5d-407e2b45596c",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    "H": {
+      "q": "Banashankari bus station Bengaluru",
+      "url": "https://nominatim.openstreetmap.org/search?q=Banashankari%20bus%20station%20Bengaluru&format=jsonv2&limit=2",
+      "markdown": "```json\n[{\"place_id\":250461114,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":1070314214,\"lat\":\"12.9166305\",\"lon\":\"77.5730685\",\"category\":\"highway\",\"type\":\"bus_stop\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"highway\",\"name\":\"Banashankari Bus Station (Towards Kadirenahalli)\",\"display_name\":\"Banashankari Bus Station (Towards Kadirenahalli), Subramaniapura Road, Banashankari Temple Ward, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560078, India\",\"boundingbox\":[\"12.9165805\",\"12.9166805\",\"77.5730185\",\"77.5731185\"]}]\n```",
+      "metadata": {
+        "scrapeId": "01a14aca-73b7-7129-8b8a-0b2d43d80a5e",
+        "sourceURL": "https://nominatim.openstreetmap.org/search?q=Banashankari%20bus%20station%20Bengaluru&format=jsonv2&limit=2",
+        "url": "https://nominatim.openstreetmap.org/search?q=Banashankari%20bus%20station%20Bengaluru&format=jsonv2&limit=2",
+        "statusCode": 200,
+        "contentType": "application/json; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "c413efbe-41b6-46c4-a593-334572dc8132",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    "I": {
+      "q": "Ranga Shankara",
+      "url": "https://nominatim.openstreetmap.org/search?q=Ranga%20Shankara&format=jsonv2&limit=2",
+      "markdown": "```json\n[{\"place_id\":251908151,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":1732931230,\"lat\":\"12.9116079\",\"lon\":\"77.5870800\",\"category\":\"amenity\",\"type\":\"theatre\",\"place_rank\":30,\"importance\":0.26922332516764147,\"addresstype\":\"amenity\",\"name\":\"Ranga Shankara\",\"display_name\":\"Ranga Shankara, 23rd Main Road, JP Nagar 2nd Phase, Marenahalli South, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560078, India\",\"boundingbox\":[\"12.9115579\",\"12.9116579\",\"77.5870300\",\"77.5871300\"]}]\n```",
+      "metadata": {
+        "scrapeId": "01a14aca-8876-7638-a1ab-c69e125e437b",
+        "sourceURL": "https://nominatim.openstreetmap.org/search?q=Ranga%20Shankara&format=jsonv2&limit=2",
+        "url": "https://nominatim.openstreetmap.org/search?q=Ranga%20Shankara&format=jsonv2&limit=2",
+        "statusCode": 200,
+        "contentType": "application/json; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "e6314176-b3c2-438f-a8ca-99a699ee447e",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    "J": {
+      "q": "Gopalan Innovation Mall",
+      "url": "https://nominatim.openstreetmap.org/search?q=Gopalan%20Innovation%20Mall&format=jsonv2&limit=2",
+      "markdown": "```json\n[{\"place_id\":251772581,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"way\",\"osm_id\":118923756,\"lat\":\"12.9143393\",\"lon\":\"77.5994538\",\"category\":\"shop\",\"type\":\"mall\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"shop\",\"name\":\"Gopalan Innovation Mall\",\"display_name\":\"Gopalan Innovation Mall, Bannerghatta Road, J.P Nagar, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560078, India\",\"boundingbox\":[\"12.9138531\",\"12.9148255\",\"77.5993001\",\"77.5996075\"]}]\n```",
+      "metadata": {
+        "scrapeId": "01a14aca-9f35-76b3-82fc-a145f19efab2",
+        "sourceURL": "https://nominatim.openstreetmap.org/search?q=Gopalan%20Innovation%20Mall&format=jsonv2&limit=2",
+        "url": "https://nominatim.openstreetmap.org/search?q=Gopalan%20Innovation%20Mall&format=jsonv2&limit=2",
+        "statusCode": 200,
+        "contentType": "application/json; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "31f0f145-667c-4708-b280-d7593d2e7998",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    "K": {
+      "q": "Ragigudda temple",
+      "url": "https://nominatim.openstreetmap.org/search?q=Ragigudda%20temple&format=jsonv2&limit=2",
+      "markdown": "```json\n[{\"place_id\":250468037,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":362539259,\"lat\":\"12.9141893\",\"lon\":\"77.5933299\",\"category\":\"amenity\",\"type\":\"place_of_worship\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"amenity\",\"name\":\"Ragigudda Temple\",\"display_name\":\"Ragigudda Temple, 5th Cross Road, KSRTC Layout, JP Nagar 2nd Phase, JP Nagar, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560078, India\",\"boundingbox\":[\"12.9141393\",\"12.9142393\",\"77.5932799\",\"77.5933799\"]}]\n```",
+      "metadata": {
+        "scrapeId": "01a14aca-b631-708e-a150-be92c1c44f57",
+        "sourceURL": "https://nominatim.openstreetmap.org/search?q=Ragigudda%20temple&format=jsonv2&limit=2",
+        "url": "https://nominatim.openstreetmap.org/search?q=Ragigudda%20temple&format=jsonv2&limit=2",
+        "statusCode": 200,
+        "contentType": "application/json; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "e52d9757-205f-439a-a3c6-826c4b7cd328",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    "L": {
+      "q": "NIMHANS Bengaluru",
+      "url": "https://nominatim.openstreetmap.org/search?q=NIMHANS%20Bengaluru&format=jsonv2&limit=2",
+      "markdown": "```json\n[{\"place_id\":249237991,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"relation\",\"osm_id\":9365463,\"lat\":\"12.9374894\",\"lon\":\"77.5941420\",\"category\":\"amenity\",\"type\":\"university\",\"place_rank\":30,\"importance\":0.39965982201271655,\"addresstype\":\"amenity\",\"name\":\"National Institute of Mental Health and NeuroSciences\",\"display_name\":\"National Institute of Mental Health and NeuroSciences, 8th Main Road, Canara Bank Colony, Jayanagar East, BHEL Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560011, India\",\"boundingbox\":[\"12.9317420\",\"12.9434892\",\"77.5925251\",\"77.6018657\"]},{\"place_id\":249357145,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":6938777910,\"lat\":\"12.9386321\",\"lon\":\"77.5944105\",\"category\":\"amenity\",\"type\":\"hospital\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"amenity\",\"name\":\"National Institute of Mental Health and Neuro Sciences\",\"display_name\":\"National Institute of Mental Health and Neuro Sciences, NIMHANS Quarters, BHEL Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560029, India\",\"boundingbox\":[\"12.9385821\",\"12.9386821\",\"77.5943605\",\"77.5944605\"]}]\n```",
+      "metadata": {
+        "scrapeId": "01a14acb-451b-72de-91d6-dd41164972ae",
+        "sourceURL": "https://nominatim.openstreetmap.org/search?q=NIMHANS%20Bengaluru&format=jsonv2&limit=2",
+        "url": "https://nominatim.openstreetmap.org/search?q=NIMHANS%20Bengaluru&format=jsonv2&limit=2",
+        "statusCode": 200,
+        "contentType": "application/json; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "f9ef5a3d-bc83-490b-9053-a75875db7281",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    }
+  },
+  "matrix": {
+    "markdown": "```json\n{\"code\":\"Ok\",\"distances\":[[0,618.5,1084.2,2282.3,2523.3,2824.1,2053.7,2340.6,1588.4,1573.6,829.9,2496.1],[250.7,0,878.5,2076.6,2446.7,2747.5,1977.1,2264,1511.8,1367.9,624.2,2633.6],[1387.8,1400,0,1198,3030.4,3324.8,3377.1,3664,2587.3,1434.1,1615.8,3110.9],[2024.2,2035.7,2107,0,2435.5,2724,3403.2,4304.2,3552,2547.3,2247.9,1996.7],[2376.3,2690.7,3156.4,2368.2,0,771.2,1571.5,2470.5,2198.4,3645.8,2902.1,2611.6],[2775.5,3089.9,3555.6,2783.9,454.3,0,1228.6,1974.3,2612.9,4045,3301.3,2595.5],[2358.6,2673,3138.8,3012.9,1131.8,817.5,0,1523.2,2196,3628.1,2884.4,3273],[2471.7,2786.1,3251.8,4449.8,2289.2,1974.9,1511.9,0,2657.1,3741.2,2997.5,4581.2],[2078.2,1925.9,2424.4,3572.6,2319.6,2616.5,1850.1,2137,0,1959,1227.2,3621],[1203.9,953.2,1067.1,2265.1,3399.9,3700.7,2930.3,3217.2,2465,0,1164.6,3489.3],[821.7,571,1069.4,2267.5,3017.6,3318.5,2548.1,2835,1648.3,1017.4,0,3107],[2503.2,2904.6,3370.4,2072.5,2306,2606.8,3737.3,4618.1,3865.9,4380.5,3116,0]],\"destinations\":[{\"hint\":\"-aS_ki29gJMHAAAAIwAAAAAAAAAAAAAAGfqfQPBxwUEAAAAAAAAAAAcAAAAjAAAAAAAAAAAAAADnKAEAQ_afBM4dxQBC9Z8Ebh3FAAAA7wkAAAAA\",\"location\":[77.592131,12.918222],\"name\":\"41st Cross Road- District Fund Road\",\"distance\":29.84269995},{\"hint\":\"JCyWkf___38GAAAACAAAAF0AAAAFAAAACb5HQfz0A0Ah2CZDl1wVQQYAAAAIAAAAXQAAAAUAAADnKAEAKvufBGQYxQAp-58EPxjFAAQA_xAAAAAA\",\"location\":[77.593386,12.916836],\"name\":\"Marenahalli Road\",\"distance\":4.094742648},{\"hint\":\"H-WRgf___3-lAAAArQAAAAQAAAAHAAAAuFIKQw2pu0BJck1AKzW-QKUAAACtAAAABAAAAAcAAADnKAEAmxSgBFcdxQAIEqAEZR3FAAIAHwAAAAAA\",\"location\":[77.599899,12.918103],\"name\":\"Bannerghatta Road\",\"distance\":71.52963109},{\"hint\":\"LQKGky4ChpMtAAAACwAAAA8AAAAAAAAA8wH-QeeR4kDe2CJBAAAAAC0AAAALAAAADwAAAAAAAADnKAEA6RWgBM1DxQBqFKAEzEPFAAIAPwsAAAAA\",\"location\":[77.600233,12.927949],\"name\":\"\",\"distance\":41.56225006},{\"hint\":\"c_d0knf3dJIiAAAAEgAAAAAAAABcAgAAQ7fhQC4ibEAAAAAA7sn7QhEAAAAJAAAAAAAAAC8BAADnKAEA_dWfBMFExQD91Z8Eq0TFAAAArwUAAAAA\",\"location\":[77.583869,12.928193],\"name\":\"\",\"distance\":2.433856703},{\"hint\":\"mSpvgJoqb4AXAAAAAAAAAAAAAAAIAAAA0ekKQgAAAAAAAAAATztEQRcAAAAAAAAAAAAAAAgAAADnKAEAOcifBOJGxQA5yJ8EBEfFAAAA7xAAAAAA\",\"location\":[77.580345,12.928738],\"name\":\"30th Cross Road\",\"distance\":3.761414905},{\"hint\":\"vMZxlP___39BAQAAaQEAAAAAAAAaAAAAvvkFQ6ffg0EAAAAAP0wqQUEBAABpAQAAAAAAABoAAADnKAEATsefBIQsxQAPx58EhCzFAAAAfxYAAAAA\",\"location\":[77.58011,12.921988],\"name\":\"\",\"distance\":6.836586105},{\"hint\":\"nIAilf___38BAAAADgAAAB0AAAAIAAAA0kARQFt6mUHTzTBC6CZLQQEAAAAOAAAAHQAAAAgAAADnKAEAwaufBLoXxQDNq58ElxfFAAYAvw8AAAAA\",\"location\":[77.573057,12.916666],\"name\":\"Subramaniapura Road\",\"distance\":4.085152792},{\"hint\":\"cfU8gQa684wlAAAACgAAAAAAAAAAAAAAUObRQdiF1EAAAAAAAAAAACUAAAAKAAAAAAAAAAAAAADnKAEAruGfBAAExQCI4p8E-APFAAAALwAAAAAA\",\"location\":[77.586862,12.911616],\"name\":\"23rd Main Road\",\"distance\":23.67330787},{\"hint\":\"MOWRgf___38IAAAAQgAAAAAAAAAAAAAAfZ8dQUvJfEIAAAAAAAAAAAgAAABCAAAAAAAAAAAAAADnKAEATRSgBK4OxQDeEqAEow7FAAAAbxYAAAAA\",\"location\":[77.599821,12.91435],\"name\":\"Bannerghatta Road\",\"distance\":39.84441504},{\"hint\":\"QgLpgDIMV4YAAAAAAwAAAAQAAAAsAAAAAAAAAFW2GUCIaCxASz30QQAAAAADAAAABAAAACwAAADnKAEANv2fBDgNxQDy-p8EDQ7FAAQA7wIAAAAA\",\"location\":[77.59391,12.913976],\"name\":\"\",\"distance\":67.20649542},{\"hint\":\"h65chZ4CdpMAAAAAAwAAAAAAAAAAAAAAAAAAAOakqj8AAAAAAAAAAAAAAAADAAAAAAAAAAAAAADnKAEA9_efBBdtxQAr_58EiG3FAAAArw4AAAAA\",\"location\":[77.592567,12.938519],\"name\":\"\",\"distance\":200.4959016}],\"durations\":[[0,58.7,96.4,182.2,198.1,200.8,171.2,157.1,137.2,147.9,83.3,250.9],[28.8,0,72.2,158,179.5,182.2,152.6,138.5,118.6,123.7,59.1,243.5],[143.4,121.6,0,85.8,274.8,269.3,274.2,260.1,214.3,118,153.4,237.3],[199.2,182.7,202.2,0,234.8,236.3,316.6,313.1,293.2,198.3,211.5,174.2],[176.6,183.3,221,221.1,0,68.3,150.4,166.3,176.7,272.5,207.9,229.4],[202.8,209.5,247.2,248.7,51.6,0,119.4,146.9,203.8,298.7,234.1,222.8],[179.8,186.5,224.2,270.1,109.8,71.9,0,120.5,173.8,275.7,211.1,281],[206.8,213.5,251.2,337,220.6,182.7,172.6,0,245,302.7,238.1,386.4],[173.8,155.1,196,272.3,201.3,197.8,174.4,160.3,0,164.6,141.1,332.5],[99.9,71.1,95,180.8,250.6,253.3,223.7,209.6,189.7,0,103.8,310.6],[83.9,55.1,96,181.8,234.6,237.3,207.7,193.6,157.1,108.6,0,287.4],[250.9,262.8,307.5,195,236,226.4,340.5,348.5,328.6,343.9,287.4,0]],\"sources\":[{\"hint\":\"-aS_ki29gJMHAAAAIwAAAAAAAAAAAAAAGfqfQPBxwUEAAAAAAAAAAAcAAAAjAAAAAAAAAAAAAADnKAEAQ_afBM4dxQBC9Z8Ebh3FAAAA7wkAAAAA\",\"location\":[77.592131,12.918222],\"name\":\"41st Cross Road- District Fund Road\",\"distance\":29.84269995},{\"hint\":\"JCyWkf___38GAAAACAAAAF0AAAAFAAAACb5HQfz0A0Ah2CZDl1wVQQYAAAAIAAAAXQAAAAUAAADnKAEAKvufBGQYxQAp-58EPxjFAAQA_xAAAAAA\",\"location\":[77.593386,12.916836],\"name\":\"Marenahalli Road\",\"distance\":4.094742648},{\"hint\":\"H-WRgf___3-lAAAArQAAAAQAAAAHAAAAuFIKQw2pu0BJck1AKzW-QKUAAACtAAAABAAAAAcAAADnKAEAmxSgBFcdxQAIEqAEZR3FAAIAHwAAAAAA\",\"location\":[77.599899,12.918103],\"name\":\"Bannerghatta Road\",\"distance\":71.52963109},{\"hint\":\"LQKGky4ChpMtAAAACwAAAA8AAAAAAAAA8wH-QeeR4kDe2CJBAAAAAC0AAAALAAAADwAAAAAAAADnKAEA6RWgBM1DxQBqFKAEzEPFAAIAPwsAAAAA\",\"location\":[77.600233,12.927949],\"name\":\"\",\"distance\":41.56225006},{\"hint\":\"c_d0knf3dJIiAAAAEgAAAAAAAABcAgAAQ7fhQC4ibEAAAAAA7sn7QhEAAAAJAAAAAAAAAC8BAADnKAEA_dWfBMFExQD91Z8Eq0TFAAAArwUAAAAA\",\"location\":[77.583869,12.928193],\"name\":\"\",\"distance\":2.433856703},{\"hint\":\"mSpvgJoqb4AXAAAAAAAAAAAAAAAIAAAA0ekKQgAAAAAAAAAATztEQRcAAAAAAAAAAAAAAAgAAADnKAEAOcifBOJGxQA5yJ8EBEfFAAAA7xAAAAAA\",\"location\":[77.580345,12.928738],\"name\":\"30th Cross Road\",\"distance\":3.761414905},{\"hint\":\"vMZxlP___39BAQAAaQEAAAAAAAAaAAAAvvkFQ6ffg0EAAAAAP0wqQUEBAABpAQAAAAAAABoAAADnKAEATsefBIQsxQAPx58EhCzFAAAAfxYAAAAA\",\"location\":[77.58011,12.921988],\"name\":\"\",\"distance\":6.836586105},{\"hint\":\"nIAilf___38BAAAADgAAAB0AAAAIAAAA0kARQFt6mUHTzTBC6CZLQQEAAAAOAAAAHQAAAAgAAADnKAEAwaufBLoXxQDNq58ElxfFAAYAvw8AAAAA\",\"location\":[77.573057,12.916666],\"name\":\"Subramaniapura Road\",\"distance\":4.085152792},{\"hint\":\"cfU8gQa684wlAAAACgAAAAAAAAAAAAAAUObRQdiF1EAAAAAAAAAAACUAAAAKAAAAAAAAAAAAAADnKAEAruGfBAAExQCI4p8E-APFAAAALwAAAAAA\",\"location\":[77.586862,12.911616],\"name\":\"23rd Main Road\",\"distance\":23.67330787},{\"hint\":\"MOWRgf___38IAAAAQgAAAAAAAAAAAAAAfZ8dQUvJfEIAAAAAAAAAAAgAAABCAAAAAAAAAAAAAADnKAEATRSgBK4OxQDeEqAEow7FAAAAbxYAAAAA\",\"location\":[77.599821,12.91435],\"name\":\"Bannerghatta Road\",\"distance\":39.84441504},{\"hint\":\"QgLpgDIMV4YAAAAAAwAAAAQAAAAsAAAAAAAAAFW2GUCIaCxASz30QQAAAAADAAAABAAAACwAAADnKAEANv2fBDgNxQDy-p8EDQ7FAAQA7wIAAAAA\",\"location\":[77.59391,12.913976],\"name\":\"\",\"distance\":67.20649542},{\"hint\":\"h65chZ4CdpMAAAAAAwAAAAAAAAAAAAAAAAAAAOakqj8AAAAAAAAAAAAAAAADAAAAAAAAAAAAAADnKAEA9_efBBdtxQAr_58EiG3FAAAArw4AAAAA\",\"location\":[77.592567,12.938519],\"name\":\"\",\"distance\":200.4959016}]}\n```",
+    "metadata": {
+      "scrapeId": "01a14acc-1600-752a-8424-3a0ae043a562",
+      "sourceURL": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration",
+      "url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration",
+      "statusCode": 200,
+      "contentType": "application/json; charset=UTF-8",
+      "timezone": "America/New_York",
+      "proxyUsed": "basic",
+      "cacheState": "miss",
+      "indexId": "b344aa1a-8ccb-4bfe-b578-e31e9ece56bb",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    }
+  }
+}

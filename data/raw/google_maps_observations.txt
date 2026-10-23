@@ -1,0 +1,51 @@
+Google Maps browser observations - 17 October 2026
+Mode: driving. Departure: Leave now. Origin road reference: 12.918222, 77.592131.
+Values below record the first recommended route, rounded as displayed.
+
+B | 2026-10-17T16:58:40.340Z | Driving 22 min | 11.3 km | via Silkboard Double Decker Flyover
+https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.916836,77.593386&travelmode=driving
+Endpoint ambiguity: Google selected elevated flyover; exclude from direct benchmark
+
+C | 2026-10-17T16:58:20.020Z | Driving 5 min | 1.1 km | via Marenahalli Rd
+https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.918103,77.599899&travelmode=driving
+Road reference near hospital, not a verified emergency entrance
+
+D | 2026-10-17T16:58:42.529Z | Driving 7 min | 2.1 km | via Bannerghatta Rd
+https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.927949,77.600233&travelmode=driving
+Road reference near hospital; last-mile access not modeled
+
+E | 2026-10-17T16:58:44.741Z | Driving 8 min | 2.5 km | via Marenahalli Rd and 9th Main Rd
+https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.928193,77.583869&travelmode=driving
+Recommended route; alternatives displayed 7 min
+
+F | 2026-10-17T16:58:47.616Z | Driving 8 min | 2.9 km | via Marenahalli Rd and 9th Main Rd
+https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.928738,77.580345&travelmode=driving
+Destination is bus stop near Jayanagar metro, not rail platform
+
+G | 2026-10-17T16:59:38.110Z | Driving 7 min | 2.1 km | via Marenahalli Rd and 4th Main Rd/Rashtriya Vidyalaya Rd
+https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.921988,77.58011&travelmode=driving
+Snapped road reference near RV Road station
+
+H | 2026-10-17T16:59:39.835Z | Driving 8 min | 2.4 km | via Marenahalli Rd
+https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.916666,77.573057&travelmode=driving
+Toward Kadirenahalli bus-stop reference
+
+I | 2026-10-17T16:59:41.902Z | Driving 6 min | 1.6 km | via Marenahalli Rd and 24th Main Rd/Aurobindo Marg
+https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.911616,77.586862&travelmode=driving
+Road reference near theatre
+
+J | 2026-10-17T16:59:43.875Z | Driving 6 min | 1.6 km | via 3rd Cross Rd
+https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.91435,77.599821&travelmode=driving
+Road reference near mall
+
+K | 2026-10-17T16:59:45.836Z | Driving 3 min | 0.7 km | via 26th Main Rd
+https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.913976,77.59391&travelmode=driving
+Road reference 67 m from mapped temple point
+
+L | 2026-10-17T16:59:47.792Z | Driving 9 min | 2.6 km | via 26th Main Rd
+https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.938519,77.592567&travelmode=driving
+Road reference 200 m from mapped hospital point; recommended route, 8 min alternative displayed
+
+M | 2026-10-20T16:05:10.514Z | Driving 6 min | 2.4 km | via Silkboard Double Decker Flyover
+https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.916965,77.591897&travelmode=driving
+Endpoint label matched Dr malathi Manipal hospitals; recommended route uses elevated flyover. Road-level and entrance access were not independently validated.

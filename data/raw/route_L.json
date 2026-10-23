@@ -1,0 +1,16 @@
+{
+  "markdown": "```json\n{\"code\":\"Ok\",\"routes\":[{\"legs\":[{\"steps\":[],\"weight\":250.9,\"summary\":\"\",\"duration\":250.9,\"distance\":2496.1}],\"weight_name\":\"routability\",\"geometry\":{\"coordinates\":[[77.592131,12.918222],[77.591808,12.919039],[77.592629,12.91898],[77.592979,12.920123],[77.593438,12.920748],[77.593564,12.928478],[77.5925,12.92847],[77.592728,12.935749],[77.592567,12.938519]],\"type\":\"LineString\"},\"weight\":250.9,\"duration\":250.9,\"distance\":2496.1}],\"waypoints\":[{\"hint\":\"-aS_ki29gJMHAAAAIwAAAAAAAAAAAAAAGfqfQPBxwUEAAAAAAAAAAAcAAAAjAAAAAAAAAAAAAADnKAEAQ_afBM4dxQBC9Z8Ebh3FAAAA7wkAAAAA\",\"location\":[77.592131,12.918222],\"name\":\"41st Cross Road- District Fund Road\",\"distance\":29.84269995},{\"hint\":\"h65chZ4CdpMAAAAAAwAAAAAAAAAAAAAAAAAAAOakqj8AAAAAAAAAAAAAAAADAAAAAAAAAAAAAADnKAEA9_efBBdtxQAr_58EiG3FAAAArw4AAAAA\",\"location\":[77.592567,12.938519],\"name\":\"\",\"distance\":200.4959016}]}\n```",
+  "metadata": {
+    "scrapeId": "01a14acf-48f0-753e-a25c-275847703f4a",
+    "sourceURL": "https://router.project-osrm.org/route/v1/driving/77.5918744,12.9181257;77.5944105,12.9386321?overview=simplified&geometries=geojson&alternatives=true&steps=false",
+    "url": "https://router.project-osrm.org/route/v1/driving/77.5918744,12.9181257;77.5944105,12.9386321?overview=simplified&geometries=geojson&alternatives=true&steps=false",
+    "statusCode": 200,
+    "contentType": "application/json; charset=UTF-8",
+    "timezone": "America/New_York",
+    "proxyUsed": "basic",
+    "cacheState": "miss",
+    "indexId": "3b1a13b4-80d6-4bb2-8e8c-cd54546f2d09",
+    "creditsUsed": 1,
+    "concurrencyLimited": false
+  }
+}

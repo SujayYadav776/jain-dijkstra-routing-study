@@ -1,0 +1,230 @@
+[
+  {
+    "id": "B",
+    "distance_m": 11300,
+    "eta_min": 22,
+    "via": "Silkboard Double Decker Flyover",
+    "observed_at_utc": "2026-10-17T16:58:40.340Z",
+    "note": "Endpoint ambiguity: Google selected elevated flyover; exclude from direct benchmark",
+    "comparable": false,
+    "origin": [
+      77.592131,
+      12.918222
+    ],
+    "destination": [
+      77.593386,
+      12.916836
+    ],
+    "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.916836,77.593386&travelmode=driving",
+    "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+  },
+  {
+    "id": "C",
+    "distance_m": 1100,
+    "eta_min": 5,
+    "via": "Marenahalli Rd",
+    "observed_at_utc": "2026-10-17T16:58:20.020Z",
+    "note": "Road reference near hospital, not a verified emergency entrance",
+    "comparable": true,
+    "origin": [
+      77.592131,
+      12.918222
+    ],
+    "destination": [
+      77.599899,
+      12.918103
+    ],
+    "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.918103,77.599899&travelmode=driving",
+    "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+  },
+  {
+    "id": "D",
+    "distance_m": 2100,
+    "eta_min": 7,
+    "via": "Bannerghatta Rd",
+    "observed_at_utc": "2026-10-17T16:58:42.529Z",
+    "note": "Road reference near hospital; last-mile access not modeled",
+    "comparable": true,
+    "origin": [
+      77.592131,
+      12.918222
+    ],
+    "destination": [
+      77.600233,
+      12.927949
+    ],
+    "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.927949,77.600233&travelmode=driving",
+    "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+  },
+  {
+    "id": "E",
+    "distance_m": 2500,
+    "eta_min": 8,
+    "via": "Marenahalli Rd and 9th Main Rd",
+    "observed_at_utc": "2026-10-17T16:58:44.741Z",
+    "note": "Recommended route; alternatives displayed 7 min",
+    "comparable": true,
+    "origin": [
+      77.592131,
+      12.918222
+    ],
+    "destination": [
+      77.583869,
+      12.928193
+    ],
+    "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.928193,77.583869&travelmode=driving",
+    "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+  },
+  {
+    "id": "F",
+    "distance_m": 2900,
+    "eta_min": 8,
+    "via": "Marenahalli Rd and 9th Main Rd",
+    "observed_at_utc": "2026-10-17T16:58:47.616Z",
+    "note": "Destination is bus stop near Jayanagar metro, not rail platform",
+    "comparable": true,
+    "origin": [
+      77.592131,
+      12.918222
+    ],
+    "destination": [
+      77.580345,
+      12.928738
+    ],
+    "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.928738,77.580345&travelmode=driving",
+    "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+  },
+  {
+    "id": "G",
+    "distance_m": 2100,
+    "eta_min": 7,
+    "via": "Marenahalli Rd and 4th Main Rd/Rashtriya Vidyalaya Rd",
+    "observed_at_utc": "2026-10-17T16:59:38.110Z",
+    "note": "Snapped road reference near RV Road station",
+    "comparable": true,
+    "origin": [
+      77.592131,
+      12.918222
+    ],
+    "destination": [
+      77.58011,
+      12.921988
+    ],
+    "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.921988,77.58011&travelmode=driving",
+    "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+  },
+  {
+    "id": "H",
+    "distance_m": 2400,
+    "eta_min": 8,
+    "via": "Marenahalli Rd",
+    "observed_at_utc": "2026-10-17T16:59:39.835Z",
+    "note": "Toward Kadirenahalli bus-stop reference",
+    "comparable": true,
+    "origin": [
+      77.592131,
+      12.918222
+    ],
+    "destination": [
+      77.573057,
+      12.916666
+    ],
+    "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.916666,77.573057&travelmode=driving",
+    "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+  },
+  {
+    "id": "I",
+    "distance_m": 1600,
+    "eta_min": 6,
+    "via": "Marenahalli Rd and 24th Main Rd/Aurobindo Marg",
+    "observed_at_utc": "2026-10-17T16:59:41.902Z",
+    "note": "Road reference near theatre",
+    "comparable": true,
+    "origin": [
+      77.592131,
+      12.918222
+    ],
+    "destination": [
+      77.586862,
+      12.911616
+    ],
+    "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.911616,77.586862&travelmode=driving",
+    "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+  },
+  {
+    "id": "J",
+    "distance_m": 1600,
+    "eta_min": 6,
+    "via": "3rd Cross Rd",
+    "observed_at_utc": "2026-10-17T16:59:43.875Z",
+    "note": "Road reference near mall",
+    "comparable": true,
+    "origin": [
+      77.592131,
+      12.918222
+    ],
+    "destination": [
+      77.599821,
+      12.91435
+    ],
+    "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.91435,77.599821&travelmode=driving",
+    "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+  },
+  {
+    "id": "K",
+    "distance_m": 700,
+    "eta_min": 3,
+    "via": "26th Main Rd",
+    "observed_at_utc": "2026-10-17T16:59:45.836Z",
+    "note": "Road reference 67 m from mapped temple point",
+    "comparable": true,
+    "origin": [
+      77.592131,
+      12.918222
+    ],
+    "destination": [
+      77.59391,
+      12.913976
+    ],
+    "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.913976,77.59391&travelmode=driving",
+    "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+  },
+  {
+    "id": "L",
+    "distance_m": 2600,
+    "eta_min": 9,
+    "via": "26th Main Rd",
+    "observed_at_utc": "2026-10-17T16:59:47.792Z",
+    "note": "Road reference 200 m from mapped hospital point; recommended route, 8 min alternative displayed",
+    "comparable": true,
+    "origin": [
+      77.592131,
+      12.918222
+    ],
+    "destination": [
+      77.592567,
+      12.938519
+    ],
+    "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.938519,77.592567&travelmode=driving",
+    "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+  },
+  {
+    "id": "M",
+    "distance_m": 2400,
+    "eta_min": 6,
+    "via": "Silkboard Double Decker Flyover",
+    "observed_at_utc": "2026-10-20T16:05:10.514Z",
+    "note": "Endpoint label matched Dr malathi Manipal hospitals; recommended route uses elevated flyover. Road-level and entrance access were not independently validated.",
+    "comparable": true,
+    "origin": [
+      77.592131,
+      12.918222
+    ],
+    "destination": [
+      77.591897,
+      12.916965
+    ],
+    "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.916965,77.591897&travelmode=driving",
+    "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+  }
+]

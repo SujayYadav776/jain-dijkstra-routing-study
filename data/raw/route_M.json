@@ -1,0 +1,16 @@
+{
+  "markdown": "```json\n{\"code\":\"Ok\",\"routes\":[{\"legs\":[{\"steps\":[],\"weight\":64.5,\"summary\":\"\",\"duration\":64.5,\"distance\":779.5}],\"weight_name\":\"routability\",\"geometry\":{\"coordinates\":[[77.592131,12.918222],[77.592603,12.91717],[77.592584,12.916841],[77.590202,12.916869],[77.589507,12.916935],[77.589509,12.917126],[77.590174,12.91701],[77.591897,12.916965]],\"type\":\"LineString\"},\"weight\":64.5,\"duration\":64.5,\"distance\":779.5}],\"waypoints\":[{\"hint\":\"yaC_ko63gJMHAAAAIwAAAAAAAAAAAAAAGfqfQPBxwUEAAAAAAAAAAAcAAAAjAAAAAAAAAAAAAAD0KAEAQ_afBM4dxQBC9Z8Ebh3FAAAA7wkAAAAA\",\"location\":[77.592131,12.918222],\"name\":\"41st Cross Road- District Fund Road\",\"distance\":29.84269995},{\"hint\":\"-XOVg____38OAAAAHQAAAAAAAAAAAAAAEZvPQZ8izEEAAAAAAAAAAA4AAAAdAAAAAAAAAAAAAAD0KAEAWfWfBOUYxQBg9Z8EoRnFAAAAvwUAAAAA\",\"location\":[77.591897,12.916965],\"name\":\"Marenahalli Road\",\"distance\":20.81227902}]}\n```",
+  "metadata": {
+    "scrapeId": "01a15a11-5b57-766d-86d9-f801f815ad38",
+    "sourceURL": "https://router.project-osrm.org/route/v1/driving/77.5918744,12.9181257;77.5919041,12.9171534?overview=simplified&geometries=geojson&steps=false",
+    "url": "https://router.project-osrm.org/route/v1/driving/77.5918744,12.9181257;77.5919041,12.9171534?overview=simplified&geometries=geojson&steps=false",
+    "statusCode": 200,
+    "contentType": "application/json; charset=UTF-8",
+    "timezone": "America/New_York",
+    "proxyUsed": "basic",
+    "cacheState": "miss",
+    "indexId": "ef2bb2b3-3d14-49a7-8b33-59fb59edc505",
+    "creditsUsed": 1,
+    "concurrencyLimited": false
+  }
+}

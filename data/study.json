@@ -1,0 +1,673 @@
+{
+  "retrieved_local_date": "2026-10-17",
+  "timezone": "Asia/Kolkata",
+  "source_address": "44/4, District Fund Road, behind Smart Bazaar, Kottapalya, Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka 560041",
+  "pairs": [
+    "AB",
+    "AK",
+    "AG",
+    "BC",
+    "BK",
+    "BJ",
+    "CD",
+    "CJ",
+    "CL",
+    "DE",
+    "DL",
+    "EF",
+    "EG",
+    "EL",
+    "FG",
+    "FH",
+    "GH",
+    "GI",
+    "HI",
+    "IK",
+    "IJ",
+    "JK",
+    "AM",
+    "BM",
+    "KM"
+  ],
+  "matrix": {
+    "code": "Ok",
+    "distances": [
+      [
+        0,
+        618.5,
+        1084.2,
+        2282.3,
+        2523.3,
+        2824.1,
+        2053.7,
+        2340.6,
+        1588.4,
+        1573.6,
+        829.9,
+        2496.1,
+        779.5
+      ],
+      [
+        250.7,
+        0,
+        878.5,
+        2076.6,
+        2446.7,
+        2747.5,
+        1977.1,
+        2264,
+        1511.8,
+        1367.9,
+        624.2,
+        2633.6,
+        702.9
+      ],
+      [
+        1387.8,
+        1400,
+        0,
+        1198,
+        3030.4,
+        3324.8,
+        3377.1,
+        3664,
+        2587.3,
+        1434.1,
+        1615.8,
+        3110.9,
+        2102.8
+      ],
+      [
+        2024.2,
+        2035.7,
+        2107,
+        0,
+        2435.5,
+        2724,
+        3403.2,
+        4304.2,
+        3552,
+        2547.3,
+        2247.9,
+        1996.7,
+        2700.8
+      ],
+      [
+        2376.3,
+        2690.7,
+        3156.4,
+        2368.2,
+        0,
+        771.2,
+        1571.5,
+        2470.5,
+        2198.4,
+        3645.8,
+        2902.1,
+        2611.6,
+        2149.3
+      ],
+      [
+        2775.5,
+        3089.9,
+        3555.6,
+        2783.9,
+        454.3,
+        0,
+        1228.6,
+        1974.3,
+        2612.9,
+        4045,
+        3301.3,
+        2595.5,
+        2548.5
+      ],
+      [
+        2358.6,
+        2673,
+        3138.8,
+        3012.9,
+        1131.8,
+        817.5,
+        0,
+        1523.2,
+        2196,
+        3628.1,
+        2884.4,
+        3273,
+        2131.7
+      ],
+      [
+        2471.7,
+        2786.1,
+        3251.8,
+        4449.8,
+        2289.2,
+        1974.9,
+        1511.9,
+        0,
+        2657.1,
+        3741.2,
+        2997.5,
+        4581.2,
+        2244.7
+      ],
+      [
+        2078.2,
+        1925.9,
+        2424.4,
+        3572.6,
+        2319.6,
+        2616.5,
+        1850.1,
+        2137,
+        0,
+        1959,
+        1227.2,
+        3621,
+        1851.2
+      ],
+      [
+        1203.9,
+        953.2,
+        1067.1,
+        2265.1,
+        3399.9,
+        3700.7,
+        2930.3,
+        3217.2,
+        2465,
+        0,
+        1164.6,
+        3489.3,
+        1656.1
+      ],
+      [
+        821.7,
+        571,
+        1069.4,
+        2267.5,
+        3017.6,
+        3318.5,
+        2548.1,
+        2835,
+        1648.3,
+        1017.4,
+        0,
+        3107,
+        1273.9
+      ],
+      [
+        2503.2,
+        2904.6,
+        3370.4,
+        2072.5,
+        2306,
+        2606.8,
+        3737.3,
+        4618.1,
+        3865.9,
+        4380.5,
+        3116,
+        0,
+        3014.7
+      ],
+      [
+        227,
+        541.3,
+        1007.1,
+        2205.1,
+        2446.1,
+        2747,
+        1976.6,
+        2263.5,
+        1511.3,
+        1496.5,
+        752.8,
+        2609.8,
+        0
+      ]
+    ],
+    "destinations": [
+      {
+        "hint": "-aS_ki29gJMHAAAAIwAAAAAAAAAAAAAAGfqfQPBxwUEAAAAAAAAAAAcAAAAjAAAAAAAAAAAAAADnKAEAQ_afBM4dxQBC9Z8Ebh3FAAAA7wkAAAAA",
+        "location": [
+          77.592131,
+          12.918222
+        ],
+        "name": "41st Cross Road- District Fund Road",
+        "distance": 29.84269995
+      },
+      {
+        "hint": "JCyWkf___38GAAAACAAAAF0AAAAFAAAACb5HQfz0A0Ah2CZDl1wVQQYAAAAIAAAAXQAAAAUAAADnKAEAKvufBGQYxQAp-58EPxjFAAQA_xAAAAAA",
+        "location": [
+          77.593386,
+          12.916836
+        ],
+        "name": "Marenahalli Road",
+        "distance": 4.094742648
+      },
+      {
+        "hint": "H-WRgf___3-lAAAArQAAAAQAAAAHAAAAuFIKQw2pu0BJck1AKzW-QKUAAACtAAAABAAAAAcAAADnKAEAmxSgBFcdxQAIEqAEZR3FAAIAHwAAAAAA",
+        "location": [
+          77.599899,
+          12.918103
+        ],
+        "name": "Bannerghatta Road",
+        "distance": 71.52963109
+      },
+      {
+        "hint": "LQKGky4ChpMtAAAACwAAAA8AAAAAAAAA8wH-QeeR4kDe2CJBAAAAAC0AAAALAAAADwAAAAAAAADnKAEA6RWgBM1DxQBqFKAEzEPFAAIAPwsAAAAA",
+        "location": [
+          77.600233,
+          12.927949
+        ],
+        "name": "",
+        "distance": 41.56225006
+      },
+      {
+        "hint": "c_d0knf3dJIiAAAAEgAAAAAAAABcAgAAQ7fhQC4ibEAAAAAA7sn7QhEAAAAJAAAAAAAAAC8BAADnKAEA_dWfBMFExQD91Z8Eq0TFAAAArwUAAAAA",
+        "location": [
+          77.583869,
+          12.928193
+        ],
+        "name": "",
+        "distance": 2.433856703
+      },
+      {
+        "hint": "mSpvgJoqb4AXAAAAAAAAAAAAAAAIAAAA0ekKQgAAAAAAAAAATztEQRcAAAAAAAAAAAAAAAgAAADnKAEAOcifBOJGxQA5yJ8EBEfFAAAA7xAAAAAA",
+        "location": [
+          77.580345,
+          12.928738
+        ],
+        "name": "30th Cross Road",
+        "distance": 3.761414905
+      },
+      {
+        "hint": "vMZxlP___39BAQAAaQEAAAAAAAAaAAAAvvkFQ6ffg0EAAAAAP0wqQUEBAABpAQAAAAAAABoAAADnKAEATsefBIQsxQAPx58EhCzFAAAAfxYAAAAA",
+        "location": [
+          77.58011,
+          12.921988
+        ],
+        "name": "",
+        "distance": 6.836586105
+      },
+      {
+        "hint": "nIAilf___38BAAAADgAAAB0AAAAIAAAA0kARQFt6mUHTzTBC6CZLQQEAAAAOAAAAHQAAAAgAAADnKAEAwaufBLoXxQDNq58ElxfFAAYAvw8AAAAA",
+        "location": [
+          77.573057,
+          12.916666
+        ],
+        "name": "Subramaniapura Road",
+        "distance": 4.085152792
+      },
+      {
+        "hint": "cfU8gQa684wlAAAACgAAAAAAAAAAAAAAUObRQdiF1EAAAAAAAAAAACUAAAAKAAAAAAAAAAAAAADnKAEAruGfBAAExQCI4p8E-APFAAAALwAAAAAA",
+        "location": [
+          77.586862,
+          12.911616
+        ],
+        "name": "23rd Main Road",
+        "distance": 23.67330787
+      },
+      {
+        "hint": "MOWRgf___38IAAAAQgAAAAAAAAAAAAAAfZ8dQUvJfEIAAAAAAAAAAAgAAABCAAAAAAAAAAAAAADnKAEATRSgBK4OxQDeEqAEow7FAAAAbxYAAAAA",
+        "location": [
+          77.599821,
+          12.91435
+        ],
+        "name": "Bannerghatta Road",
+        "distance": 39.84441504
+      },
+      {
+        "hint": "QgLpgDIMV4YAAAAAAwAAAAQAAAAsAAAAAAAAAFW2GUCIaCxASz30QQAAAAADAAAABAAAACwAAADnKAEANv2fBDgNxQDy-p8EDQ7FAAQA7wIAAAAA",
+        "location": [
+          77.59391,
+          12.913976
+        ],
+        "name": "",
+        "distance": 67.20649542
+      },
+      {
+        "hint": "h65chZ4CdpMAAAAAAwAAAAAAAAAAAAAAAAAAAOakqj8AAAAAAAAAAAAAAAADAAAAAAAAAAAAAADnKAEA9_efBBdtxQAr_58EiG3FAAAArw4AAAAA",
+        "location": [
+          77.592567,
+          12.938519
+        ],
+        "name": "",
+        "distance": 200.4959016
+      },
+      {
+        "hint": "-XOVg____38OAAAAHQAAAAAAAAAAAAAAEZvPQZ8izEEAAAAAAAAAAA4AAAAdAAAAAAAAAAAAAAD0KAEAWfWfBOUYxQBg9Z8EoRnFAAAAvwUAAAAA",
+        "location": [
+          77.591897,
+          12.916965
+        ],
+        "name": "Marenahalli Road",
+        "distance": 20.81227902
+      }
+    ],
+    "durations": [
+      [
+        0,
+        58.7,
+        96.4,
+        182.2,
+        198.1,
+        200.8,
+        171.2,
+        157.1,
+        137.2,
+        147.9,
+        83.3,
+        250.9,
+        64.5
+      ],
+      [
+        28.8,
+        0,
+        72.2,
+        158,
+        179.5,
+        182.2,
+        152.6,
+        138.5,
+        118.6,
+        123.7,
+        59.1,
+        243.5,
+        45.9
+      ],
+      [
+        143.4,
+        121.6,
+        0,
+        85.8,
+        274.8,
+        269.3,
+        274.2,
+        260.1,
+        214.3,
+        118,
+        153.4,
+        237.3,
+        167.5
+      ],
+      [
+        199.2,
+        182.7,
+        202.2,
+        0,
+        234.8,
+        236.3,
+        316.6,
+        313.1,
+        293.2,
+        198.3,
+        211.5,
+        174.2,
+        214.5
+      ],
+      [
+        176.6,
+        183.3,
+        221,
+        221.1,
+        0,
+        68.3,
+        150.4,
+        166.3,
+        176.7,
+        272.5,
+        207.9,
+        229.4,
+        146.7
+      ],
+      [
+        202.8,
+        209.5,
+        247.2,
+        248.7,
+        51.6,
+        0,
+        119.4,
+        146.9,
+        203.8,
+        298.7,
+        234.1,
+        222.8,
+        172.9
+      ],
+      [
+        179.8,
+        186.5,
+        224.2,
+        270.1,
+        109.8,
+        71.9,
+        0,
+        120.5,
+        173.8,
+        275.7,
+        211.1,
+        281,
+        149.9
+      ],
+      [
+        206.8,
+        213.5,
+        251.2,
+        337,
+        220.6,
+        182.7,
+        172.6,
+        0,
+        245,
+        302.7,
+        238.1,
+        386.4,
+        176.9
+      ],
+      [
+        173.8,
+        155.1,
+        196,
+        272.3,
+        201.3,
+        197.8,
+        174.4,
+        160.3,
+        0,
+        164.6,
+        141.1,
+        332.5,
+        143.9
+      ],
+      [
+        99.9,
+        71.1,
+        95,
+        180.8,
+        250.6,
+        253.3,
+        223.7,
+        209.6,
+        189.7,
+        0,
+        103.8,
+        310.6,
+        117
+      ],
+      [
+        83.9,
+        55.1,
+        96,
+        181.8,
+        234.6,
+        237.3,
+        207.7,
+        193.6,
+        157.1,
+        108.6,
+        0,
+        287.4,
+        101
+      ],
+      [
+        250.9,
+        262.8,
+        307.5,
+        195,
+        236,
+        226.4,
+        340.5,
+        348.5,
+        328.6,
+        343.9,
+        287.4,
+        0,
+        249.9
+      ],
+      [
+        29.9,
+        36.6,
+        74.3,
+        160.1,
+        183.8,
+        186.5,
+        156.9,
+        142.8,
+        122.9,
+        125.8,
+        61.2,
+        244.6,
+        0
+      ]
+    ],
+    "sources": [
+      {
+        "hint": "-aS_ki29gJMHAAAAIwAAAAAAAAAAAAAAGfqfQPBxwUEAAAAAAAAAAAcAAAAjAAAAAAAAAAAAAADnKAEAQ_afBM4dxQBC9Z8Ebh3FAAAA7wkAAAAA",
+        "location": [
+          77.592131,
+          12.918222
+        ],
+        "name": "41st Cross Road- District Fund Road",
+        "distance": 29.84269995
+      },
+      {
+        "hint": "JCyWkf___38GAAAACAAAAF0AAAAFAAAACb5HQfz0A0Ah2CZDl1wVQQYAAAAIAAAAXQAAAAUAAADnKAEAKvufBGQYxQAp-58EPxjFAAQA_xAAAAAA",
+        "location": [
+          77.593386,
+          12.916836
+        ],
+        "name": "Marenahalli Road",
+        "distance": 4.094742648
+      },
+      {
+        "hint": "H-WRgf___3-lAAAArQAAAAQAAAAHAAAAuFIKQw2pu0BJck1AKzW-QKUAAACtAAAABAAAAAcAAADnKAEAmxSgBFcdxQAIEqAEZR3FAAIAHwAAAAAA",
+        "location": [
+          77.599899,
+          12.918103
+        ],
+        "name": "Bannerghatta Road",
+        "distance": 71.52963109
+      },
+      {
+        "hint": "LQKGky4ChpMtAAAACwAAAA8AAAAAAAAA8wH-QeeR4kDe2CJBAAAAAC0AAAALAAAADwAAAAAAAADnKAEA6RWgBM1DxQBqFKAEzEPFAAIAPwsAAAAA",
+        "location": [
+          77.600233,
+          12.927949
+        ],
+        "name": "",
+        "distance": 41.56225006
+      },
+      {
+        "hint": "c_d0knf3dJIiAAAAEgAAAAAAAABcAgAAQ7fhQC4ibEAAAAAA7sn7QhEAAAAJAAAAAAAAAC8BAADnKAEA_dWfBMFExQD91Z8Eq0TFAAAArwUAAAAA",
+        "location": [
+          77.583869,
+          12.928193
+        ],
+        "name": "",
+        "distance": 2.433856703
+      },
+      {
+        "hint": "mSpvgJoqb4AXAAAAAAAAAAAAAAAIAAAA0ekKQgAAAAAAAAAATztEQRcAAAAAAAAAAAAAAAgAAADnKAEAOcifBOJGxQA5yJ8EBEfFAAAA7xAAAAAA",
+        "location": [
+          77.580345,
+          12.928738
+        ],
+        "name": "30th Cross Road",
+        "distance": 3.761414905
+      },
+      {
+        "hint": "vMZxlP___39BAQAAaQEAAAAAAAAaAAAAvvkFQ6ffg0EAAAAAP0wqQUEBAABpAQAAAAAAABoAAADnKAEATsefBIQsxQAPx58EhCzFAAAAfxYAAAAA",
+        "location": [
+          77.58011,
+          12.921988
+        ],
+        "name": "",
+        "distance": 6.836586105
+      },
+      {
+        "hint": "nIAilf___38BAAAADgAAAB0AAAAIAAAA0kARQFt6mUHTzTBC6CZLQQEAAAAOAAAAHQAAAAgAAADnKAEAwaufBLoXxQDNq58ElxfFAAYAvw8AAAAA",
+        "location": [
+          77.573057,
+          12.916666
+        ],
+        "name": "Subramaniapura Road",
+        "distance": 4.085152792
+      },
+      {
+        "hint": "cfU8gQa684wlAAAACgAAAAAAAAAAAAAAUObRQdiF1EAAAAAAAAAAACUAAAAKAAAAAAAAAAAAAADnKAEAruGfBAAExQCI4p8E-APFAAAALwAAAAAA",
+        "location": [
+          77.586862,
+          12.911616
+        ],
+        "name": "23rd Main Road",
+        "distance": 23.67330787
+      },
+      {
+        "hint": "MOWRgf___38IAAAAQgAAAAAAAAAAAAAAfZ8dQUvJfEIAAAAAAAAAAAgAAABCAAAAAAAAAAAAAADnKAEATRSgBK4OxQDeEqAEow7FAAAAbxYAAAAA",
+        "location": [
+          77.599821,
+          12.91435
+        ],
+        "name": "Bannerghatta Road",
+        "distance": 39.84441504
+      },
+      {
+        "hint": "QgLpgDIMV4YAAAAAAwAAAAQAAAAsAAAAAAAAAFW2GUCIaCxASz30QQAAAAADAAAABAAAACwAAADnKAEANv2fBDgNxQDy-p8EDQ7FAAQA7wIAAAAA",
+        "location": [
+          77.59391,
+          12.913976
+        ],
+        "name": "",
+        "distance": 67.20649542
+      },
+      {
+        "hint": "h65chZ4CdpMAAAAAAwAAAAAAAAAAAAAAAAAAAOakqj8AAAAAAAAAAAAAAAADAAAAAAAAAAAAAADnKAEA9_efBBdtxQAr_58EiG3FAAAArw4AAAAA",
+        "location": [
+          77.592567,
+          12.938519
+        ],
+        "name": "",
+        "distance": 200.4959016
+      },
+      {
+        "hint": "-XOVg____38OAAAAHQAAAAAAAAAAAAAAEZvPQZ8izEEAAAAAAAAAAA4AAAAdAAAAAAAAAAAAAAD0KAEAWfWfBOUYxQBg9Z8EoRnFAAAAvwUAAAAA",
+        "location": [
+          77.591897,
+          12.916965
+        ],
+        "name": "Marenahalli Road",
+        "distance": 20.81227902
+      }
+    ]
+  },
+  "table_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration",
+  "retrieval_date": "2026-10-17",
+  "model_updated_date": "2026-10-20",
+  "extension_table_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321;77.5919041,12.9171534?annotations=distance,duration",
+  "extension_retrieval_date": "2026-10-20",
+  "extension_note": "Original 12 x 12 road-cost matrix is frozen at 17 October 2026. Only row/column M were added from the 20 October routing snapshot."
+}

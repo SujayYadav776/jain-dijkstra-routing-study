@@ -1,0 +1,13 @@
+source,destination,location,journey_time_min,journey_time_s,route,observation_date,departure_time,transport_mode
+A,B,Ragigudda bus stop,8,480,,,,
+A,C,Jayadeva Hospital,10,600,,,,
+A,D,Sagar Hospitals,12,720,,,,
+A,E,Jayanagar TTMC,14,840,,,,
+A,F,Jayanagar metro bus stop,19,1140,,,,
+A,G,RV Road station reference,13,780,,,,
+A,H,Banashankari bus stop,26,1560,,,,
+A,I,Ranga Shankara,13,780,,,,
+A,J,Gopalan Innovation Mall,14,840,,,,
+A,K,Ragigudda Temple,10,600,,,,
+A,L,NIMHANS hospital reference,17,1020,,,,
+A,M,"Manipal Hospital, Jayanagar",9,540,,,,

@@ -1,0 +1,41 @@
+{
+  "algorithm": {
+    "all_pairs_floyd_warshall_comparisons": 338,
+    "boundary_cases": "unreachable, same source/target, zero edge, equal-cost alternatives, negative weight rejection",
+    "networkx_verified": false,
+    "benchmark": {
+      "python": "3.12.14",
+      "platform": "Windows-11-10.0.26300-SP0",
+      "measurement": "21 batches x 100 calls; median and nearest-rank p95 of per-batch mean milliseconds; graph prebuilt; no I/O, tracing, or network"
+    },
+    "nodes": 13,
+    "directed_edges": 50,
+    "corridors": 25,
+    "human_records": 0
+  },
+  "explorer": {
+    "route_comparisons": 54,
+    "checks": [
+      "invalid directed route",
+      "negative time rejection",
+      "zero time accepted",
+      "optimal human route scored as zero gap",
+      "student solution hiding",
+      "trace controls",
+      "Manipal hospital destination, green node and observation entry",
+      "minutes rounding"
+    ],
+    "method": "Node.js DOM harness, not a live browser",
+    "live_browser_preview": "Unavailable: connected browser could not reach the local HTTP server"
+  },
+  "documents": {
+    "report_pages": 11,
+    "slides": 13,
+    "workbook_sheets": 5,
+    "human_measurements": "Blank",
+    "native_office_app_testing": "Not performed",
+    "finalized_slide_render_comparisons": 13
+  },
+  "updated": "2026-10-20",
+  "extension": "Manipal Hospital, Jayanagar, node M; original weights retained"
+}

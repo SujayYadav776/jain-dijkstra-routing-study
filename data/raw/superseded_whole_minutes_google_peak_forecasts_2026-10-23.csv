@@ -1,0 +1,25 @@
+﻿source,destination,location,departure_date,departure_time,timezone,travel_mode,google_typical_min,google_typical_max,google_distance_m,via,human_recorded_min,captured_at_utc,endpoint_notes
+A,B,Ragigudda bus stop,2026-10-23,08:30,Asia/Kolkata,driving,3,3,210,41st Cross Rd/District Fund Rd and Marenahalli Rd,8,2026-10-22T14:05:49.750Z,Transit result selected; exact human stop side and original project reference do not match; provisional
+A,B,Ragigudda bus stop,2026-10-23,18:30,Asia/Kolkata,driving,3,3,210,41st Cross Rd/District Fund Rd and Marenahalli Rd,8,2026-10-22T14:05:52.908Z,Transit result selected; exact human stop side and original project reference do not match; provisional
+A,C,Jayadeva Hospital,2026-10-23,08:30,Asia/Kolkata,driving,3,10,850,Marenahalli Rd,10,2026-10-22T14:06:04.844Z,Named destination matched; actual entrance unknown
+A,C,Jayadeva Hospital,2026-10-23,18:30,Asia/Kolkata,driving,4,10,850,Marenahalli Rd,10,2026-10-22T14:06:01.510Z,Named destination matched; actual entrance unknown
+A,D,Sagar Hospitals,2026-10-23,08:30,Asia/Kolkata,driving,6,14,2000,26th Main Rd and Swagath Rd/Tilak Nagar Main Rd,12,2026-10-22T14:06:08.549Z,Named branch matched; actual entrance unknown
+A,D,Sagar Hospitals,2026-10-23,18:30,Asia/Kolkata,driving,7,14,2000,26th Main Rd and Swagath Rd/Tilak Nagar Main Rd,12,2026-10-22T14:06:11.717Z,Named branch matched; actual entrance unknown
+A,E,Jayanagar TTMC,2026-10-23,08:30,Asia/Kolkata,driving,7,12,2300,18th Main Rd,14,2026-10-22T14:06:19.204Z,Named destination matched
+A,E,Jayanagar TTMC,2026-10-23,18:30,Asia/Kolkata,driving,7,14,2200,26th Main Rd and 32nd E Cross Rd,14,2026-10-22T14:06:15.868Z,Named destination matched
+A,F,Jayanagar Metro,2026-10-23,08:30,Asia/Kolkata,driving,8,20,3000,Marenahalli Rd and 4th Main Rd/Rashtriya Vidyalaya Rd,19,2026-10-22T14:06:23.822Z,Resolved to station named Jayanagar; exact exit or bus stop unverified
+A,F,Jayanagar Metro,2026-10-23,18:30,Asia/Kolkata,driving,10,20,2900,39th Cross Rd,19,2026-10-22T14:06:27.389Z,Resolved to station named Jayanagar; exact exit or bus stop unverified
+A,G,RV Road,2026-10-23,08:30,Asia/Kolkata,driving,6,16,2000,Marenahalli Rd,13,2026-10-22T14:06:35.569Z,Named station matched; 8 min alternative also shown; first recommended route retained
+A,G,RV Road,2026-10-23,18:30,Asia/Kolkata,driving,7,14,1900,39th Cross Rd and 38th Cross Rd,13,2026-10-22T14:06:32.201Z,Named station matched; 8 min alternative also shown; first recommended route retained
+A,H,Banashankari bus stop,2026-10-23,08:30,Asia/Kolkata,driving,9,22,2700,Marenahalli Rd,26,2026-10-22T14:06:40.485Z,Google reported much heavier traffic than usual
+A,H,Banashankari bus stop,2026-10-23,18:30,Asia/Kolkata,driving,12,30,2700,Marenahalli Rd,26,2026-10-22T14:06:44.215Z,Google reported much heavier traffic than usual
+A,I,Ranga Shankara,2026-10-23,08:30,Asia/Kolkata,driving,5,12,1600,Marenahalli Rd and 24th Main Rd/Aurobindo Marg,13,2026-10-22T14:06:53.523Z,7 min alternative also shown; first recommended route retained
+A,I,Ranga Shankara,2026-10-23,18:30,Asia/Kolkata,driving,6,12,1600,17th Main Rd,13,2026-10-22T14:06:48.268Z,7 min alternative also shown; first recommended route retained
+A,J,Gopalan Innovation Mall,2026-10-23,08:30,Asia/Kolkata,driving,7,14,1700,3rd Cross Rd,14,2026-10-22T14:06:56.962Z,User innovation center mapped to project Mall; lighter traffic than usual
+A,J,Gopalan Innovation Mall,2026-10-23,18:30,Asia/Kolkata,driving,7,14,1700,3rd Cross Rd,14,2026-10-22T14:07:01.841Z,User innovation center mapped to project Mall; lighter traffic than usual
+A,K,Ragigudda Temple,2026-10-23,08:30,Asia/Kolkata,driving,4,4,550,26th Main Rd,10,2026-10-22T14:07:11.947Z,Named temple matched; distinct from B transit stop
+A,K,Ragigudda Temple,2026-10-23,18:30,Asia/Kolkata,driving,4,4,550,26th Main Rd,10,2026-10-22T14:07:08.446Z,Named temple matched; distinct from B transit stop
+A,L,NIMHANS,2026-10-23,08:30,Asia/Kolkata,driving,9,18,2800,26th Main Rd,17,2026-10-22T14:07:40.132Z,Same NIMHANS Bengaluru campus pin; entrance unverified. Previous Leave now check warned of restricted/private roads; scheduled route needs access verification.
+A,L,NIMHANS,2026-10-23,18:30,Asia/Kolkata,driving,10,20,2800,26th Main Rd,17,2026-10-22T14:07:36.031Z,Same NIMHANS Bengaluru campus pin; entrance unverified. Previous Leave now check warned of restricted/private roads; scheduled route needs access verification.
+A,M,Manipal Hospital Jayanagar,2026-10-23,08:30,Asia/Kolkata,driving,3,6,850,Marenahalli Rd,9,2026-10-22T14:08:25.129Z,Correct Manipal Hospitals Jayanagar listing near 77.59194 longitude selected. Discarded duplicate 45/1-address listing near 77.57757 longitude.
+A,M,Manipal Hospital Jayanagar,2026-10-23,18:30,Asia/Kolkata,driving,3,8,850,Marenahalli Rd,9,2026-10-22T14:08:29.885Z,Correct Manipal Hospitals Jayanagar listing near 77.59194 longitude selected. Discarded duplicate 45/1-address listing near 77.57757 longitude.

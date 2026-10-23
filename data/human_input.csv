@@ -1,0 +1,11 @@
+﻿participant_id,task_id,objective,route,decision_time_s,manual_time_s,familiarity,notes
+,C,distance_m,,,,,
+,C,duration_s,,,,,
+,D,distance_m,,,,,
+,D,duration_s,,,,,
+,J,distance_m,,,,,
+,J,duration_s,,,,,
+,L,distance_m,,,,,
+,L,duration_s,,,,,
+,M,distance_m,,,,,
+,M,duration_s,,,,,

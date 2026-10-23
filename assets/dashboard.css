@@ -1,0 +1,52 @@
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:swap;src:url('fonts/space-grotesk-400.ttf') format('truetype')}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:500;font-display:swap;src:url('fonts/space-grotesk-500.ttf') format('truetype')}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:swap;src:url('fonts/space-grotesk-600.ttf') format('truetype')}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:700;font-display:swap;src:url('fonts/space-grotesk-700.ttf') format('truetype')}
+.diagram{align-self:start;background:#fbfcfa;border-color:#ccd8d2;border-radius:8px;padding:16px;overflow:hidden}
+.graph-tools{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-bottom:14px;color:#52656b;font-size:12px}
+.graph-tools>div{display:flex;gap:8px;flex-wrap:wrap}
+.graph-tools button{font-size:12px;padding:6px 10px;color:#263f43;background:#ffffff;border-color:#c7d4ce}
+.graph-tools button:hover{background:#eaf1ed;border-color:#80709c}
+#network{background-image:radial-gradient(#dce4df 1px,transparent 1px);background-size:24px 24px;border-radius:5px;touch-action:none;user-select:none;overflow:visible}
+#network #arrow path{fill:#00685d}
+#network .node{cursor:grab;outline:none;transition:opacity .22s ease}
+#network.is-dragging .node{cursor:grabbing}
+#network .node circle{transition:filter .22s ease,stroke .22s ease;stroke-width:2}
+#network .node.path circle{stroke:#164c43;stroke-width:3}
+#network .node.settled circle{stroke-dasharray:3 4}
+#network .node.misc text{fill:#1b210f}
+#network .node text{font-size:17px}
+#network .edge{stroke:#91a49d;stroke-width:1.6;opacity:.65;transition:opacity .22s ease,stroke .22s ease}
+#network .edge.path{stroke:#00685d;stroke-width:3;opacity:1;filter:drop-shadow(0 0 3px #00685d18)}
+#network .edge-label{fill:#005b51;stroke:#fbfcfa;pointer-events:none;transition:opacity .22s ease}
+#network.focus-mode .node:not(.near){opacity:.18}
+#network.focus-mode .edge:not(.connected),#network.focus-mode .edge-label:not(.connected){opacity:.08}
+#network .edge.connected{stroke:#7560ad;opacity:1;stroke-width:2.8}
+#network .node.focused circle,#network .node:focus-visible circle{stroke:#7560ad;stroke-width:4;filter:drop-shadow(0 0 9px #7560ad30)}
+.diagram figcaption{color:#52656b;margin-top:10px}
+.comparison-graphs{--chart-human:#2478a5;--chart-google:#b37a16;--chart-longer:#c5584a;--chart-shorter:#008475}
+.comparison-figure{background:#fbfcfa;color:#263f43;border:1px solid #ccd8d2}
+.comparison-figure h3{color:#203a3e}
+.comparison-figure figcaption,.comparison-figure .chart-key{color:#52656b}
+.comparison-figure .axis-label{fill:#52656b}
+.comparison-figure .axis-title,.comparison-figure .bar-label,.comparison-figure .location-label{fill:#263f43}
+.comparison-figure .grid-line{stroke:#dce4df}
+.comparison-figure .axis-line{stroke:#8c9f96}
+.comparison-figure .zero-line,.comparison-figure .equal-line{stroke:#9a741d}
+.comparison-figure .human-fill{fill:var(--chart-human)}
+.comparison-figure .google-fill{fill:var(--chart-google)}
+.comparison-figure .longer-fill{fill:var(--chart-longer)}
+.comparison-figure .shorter-fill{fill:var(--chart-shorter)}
+.comparison-figure .key-human:before{background:var(--chart-human)}
+.comparison-figure .key-google:before{background:var(--chart-google)}
+.comparison-figure .key-longer:before{background:var(--chart-longer)}
+.comparison-figure .key-shorter:before{background:var(--chart-shorter)}
+.comparison-figure .label-leader{stroke:#8c9f96}
+.comparison-figure .scatter-label{fill:#263f43;stroke:#fbfcfa}
+.comparison-figure .anim-point{stroke:#fbfcfa}
+@media(max-width:600px){.graph-tools{align-items:flex-start;flex-direction:column}.diagram{padding:12px}}
+@media(prefers-reduced-motion:reduce){#network .node,#network .node circle,#network .edge,#network .edge-label{transition:none}}
+@media print{.graph-tools{display:none}.diagram{print-color-adjust:exact;-webkit-print-color-adjust:exact}}
+
+@font-face{font-family:'Aminute';font-style:normal;font-weight:400;font-display:swap;src:url('fonts/aminute.woff2') format('woff2')}
+header h1{font-family:'Aminute','Space Grotesk',sans-serif;font-weight:700;font-synthesis:weight;font-size:44px;line-height:1.1;letter-spacing:normal}

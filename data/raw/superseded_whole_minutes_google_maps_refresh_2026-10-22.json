@@ -1,0 +1,152 @@
+{
+  "source": "Google Maps driving directions browser UI, Leave now, first recommended route (not necessarily minimum alternate ETA)",
+  "origin_verified": "JAIN (Deemed-to-be University), 44/4 District Fund Road, Jayanagar, Bengaluru 560041",
+  "observation_window_IST": "22 October 2026, approximately 19:27-19:29 IST",
+  "comparison_limit": "Human trip dates, modes, routes and entrance points unknown; these are descriptive comparisons, not contemporaneous prediction errors. Named place searches replace earlier snapped-coordinate endpoints. Changes from old estimates cannot be attributed to traffic alone. B excluded from aggregate statistics because its exact stop reference is unresolved. L includes a restricted-road warning. Route links reproduce named queries but may resolve differently later. Original 17/20 October snapshots retained.",
+  "observations": [
+    {
+      "id": "B",
+      "destination": "Ragigudda bus stop",
+      "human_journey_min": 8,
+      "google_recommended_min": 2,
+      "difference_min": 6,
+      "google_distance_m": 210,
+      "observed_at_utc": "2026-10-22T13:59:10.691Z",
+      "via": "41st Cross Rd/District Fund Rd and Marenahalli Rd",
+      "endpoint_and_route_notes": "Transit result selected; exact human stop side and original project reference do not match; provisional",
+      "route_link": "https://www.google.com/maps/dir/?api=1&origin=JAIN+University+44%2F4+District+Fund+Road+Jayanagar+Bengaluru&destination=Ragigudda+Temple+transit+stop%2C+Putlanpalya&travelmode=driving"
+    },
+    {
+      "id": "C",
+      "destination": "Jayadeva Hospital",
+      "human_journey_min": 10,
+      "google_recommended_min": 6,
+      "difference_min": 4,
+      "google_distance_m": 850,
+      "observed_at_utc": "2026-10-22T13:57:10.590Z",
+      "via": "Marenahalli Rd",
+      "endpoint_and_route_notes": "Named destination matched; actual entrance unknown",
+      "route_link": "https://www.google.com/maps/dir/?api=1&origin=JAIN+University+44%2F4+District+Fund+Road+Jayanagar+Bengaluru&destination=Jayadeva+Hospital+Bannerghatta+Road+Bengaluru&travelmode=driving"
+    },
+    {
+      "id": "D",
+      "destination": "Sagar Hospitals",
+      "human_journey_min": 12,
+      "google_recommended_min": 9,
+      "difference_min": 3,
+      "google_distance_m": 2000,
+      "observed_at_utc": "2026-10-22T13:57:19.654Z",
+      "via": "28th Main Rd and Swagath Rd/Tilak Nagar Main Rd",
+      "endpoint_and_route_notes": "Named branch matched; actual entrance unknown",
+      "route_link": "https://www.google.com/maps/dir/?api=1&origin=JAIN+University+44%2F4+District+Fund+Road+Jayanagar+Bengaluru&destination=Sagar+Hospitals+Jayanagar+Tilak+Nagar+Bengaluru&travelmode=driving"
+    },
+    {
+      "id": "E",
+      "destination": "Jayanagar TTMC",
+      "human_journey_min": 14,
+      "google_recommended_min": 9,
+      "difference_min": 5,
+      "google_distance_m": 2200,
+      "observed_at_utc": "2026-10-22T13:57:29.124Z",
+      "via": "26th Main Rd and 32nd E Cross Rd",
+      "endpoint_and_route_notes": "Named destination matched",
+      "route_link": "https://www.google.com/maps/dir/?api=1&origin=JAIN+University+44%2F4+District+Fund+Road+Jayanagar+Bengaluru&destination=Jayanagar+TTMC-BMTC+Bengaluru&travelmode=driving"
+    },
+    {
+      "id": "F",
+      "destination": "Jayanagar Metro",
+      "human_journey_min": 19,
+      "google_recommended_min": 14,
+      "difference_min": 5,
+      "google_distance_m": 2900,
+      "observed_at_utc": "2026-10-22T13:57:44.583Z",
+      "via": "39th Cross Rd",
+      "endpoint_and_route_notes": "Resolved to station named Jayanagar; exact exit or bus stop unverified",
+      "route_link": "https://www.google.com/maps/dir/?api=1&origin=JAIN+University+44%2F4+District+Fund+Road+Jayanagar+Bengaluru&destination=Jayanagar+Metro+Station+Bengaluru&travelmode=driving"
+    },
+    {
+      "id": "G",
+      "destination": "RV Road",
+      "human_journey_min": 13,
+      "google_recommended_min": 9,
+      "difference_min": 4,
+      "google_distance_m": 2100,
+      "observed_at_utc": "2026-10-22T13:57:52.557Z",
+      "via": "39th Cross Rd and 38th Cross Rd",
+      "endpoint_and_route_notes": "Named station matched; 8 min alternative also shown; first recommended route retained",
+      "route_link": "https://www.google.com/maps/dir/?api=1&origin=JAIN+University+44%2F4+District+Fund+Road+Jayanagar+Bengaluru&destination=Rashtreeya+Vidyalaya+Road+Metro+Station+Bengaluru&travelmode=driving"
+    },
+    {
+      "id": "H",
+      "destination": "Banashankari bus stop",
+      "human_journey_min": 26,
+      "google_recommended_min": 21,
+      "difference_min": 5,
+      "google_distance_m": 2700,
+      "observed_at_utc": "2026-10-22T13:58:02.168Z",
+      "via": "Marenahalli Rd",
+      "endpoint_and_route_notes": "Google reported much heavier traffic than usual",
+      "route_link": "https://www.google.com/maps/dir/?api=1&origin=JAIN+University+44%2F4+District+Fund+Road+Jayanagar+Bengaluru&destination=Banashankari+Bus+Stand+Bengaluru&travelmode=driving"
+    },
+    {
+      "id": "I",
+      "destination": "Ranga Shankara",
+      "human_journey_min": 13,
+      "google_recommended_min": 8,
+      "difference_min": 5,
+      "google_distance_m": 1600,
+      "observed_at_utc": "2026-10-22T13:58:11.164Z",
+      "via": "17th Main Rd",
+      "endpoint_and_route_notes": "7 min alternative also shown; first recommended route retained",
+      "route_link": "https://www.google.com/maps/dir/?api=1&origin=JAIN+University+44%2F4+District+Fund+Road+Jayanagar+Bengaluru&destination=Ranga+Shankara+JP+Nagar+Bengaluru&travelmode=driving"
+    },
+    {
+      "id": "J",
+      "destination": "Gopalan Innovation Mall",
+      "human_journey_min": 14,
+      "google_recommended_min": 8,
+      "difference_min": 6,
+      "google_distance_m": 1700,
+      "observed_at_utc": "2026-10-22T13:58:19.710Z",
+      "via": "3rd Cross Rd",
+      "endpoint_and_route_notes": "User innovation center mapped to project Mall; lighter traffic than usual",
+      "route_link": "https://www.google.com/maps/dir/?api=1&origin=JAIN+University+44%2F4+District+Fund+Road+Jayanagar+Bengaluru&destination=Gopalan+Innovation+Mall+Bannerghatta+Road+Bengaluru&travelmode=driving"
+    },
+    {
+      "id": "K",
+      "destination": "Ragigudda Temple",
+      "human_journey_min": 10,
+      "google_recommended_min": 4,
+      "difference_min": 6,
+      "google_distance_m": 550,
+      "observed_at_utc": "2026-10-22T13:58:27.692Z",
+      "via": "26th Main Rd",
+      "endpoint_and_route_notes": "Named temple matched; distinct from B transit stop",
+      "route_link": "https://www.google.com/maps/dir/?api=1&origin=JAIN+University+44%2F4+District+Fund+Road+Jayanagar+Bengaluru&destination=Ragigudda+Sri+Prasanna+Anjaneya+Swamy+Temple+Bengaluru&travelmode=driving"
+    },
+    {
+      "id": "L",
+      "destination": "NIMHANS",
+      "human_journey_min": 17,
+      "google_recommended_min": 13,
+      "difference_min": 4,
+      "google_distance_m": 2800,
+      "observed_at_utc": "2026-10-22T13:58:37.986Z",
+      "via": "26th Main Rd",
+      "endpoint_and_route_notes": "Recommended route warns restricted usage or private roads; alternatives 14 min via 28th Main and 16 min via Bannerghatta",
+      "route_link": "https://www.google.com/maps/dir/?api=1&origin=JAIN+University+44%2F4+District+Fund+Road+Jayanagar+Bengaluru&destination=NIMHANS+Bengaluru+Hosur+Road&travelmode=driving"
+    },
+    {
+      "id": "M",
+      "destination": "Manipal Hospital Jayanagar",
+      "human_journey_min": 9,
+      "google_recommended_min": 4,
+      "difference_min": 5,
+      "google_distance_m": 850,
+      "observed_at_utc": "2026-10-22T13:58:47.136Z",
+      "via": "Marenahalli Rd",
+      "endpoint_and_route_notes": "Named branch matched; lighter traffic than usual",
+      "route_link": "https://www.google.com/maps/dir/?api=1&origin=JAIN+University+44%2F4+District+Fund+Road+Jayanagar+Bengaluru&destination=Manipal+Hospitals+Jayanagar+45th+Cross+Road+Bengaluru&travelmode=driving"
+    }
+  ]
+}

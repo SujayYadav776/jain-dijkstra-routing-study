@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="920" height="730" preserveAspectRatio="xMinYMin meet" viewBox="0 0 920 730" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="920" height="730"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-730)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 450,400 L 580,340 Z" style="stroke: rgb(0%,40%,36%); stroke-linecap: butt; stroke-width: 2.6;"/>
+			<polygon points="564.5647 347.124, 558.0693 354.5274, 554.7168 347.2637" style="stroke: rgb(0%,40%,36%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,40%,36%); fill-rule: evenodd;"/>
+			<path d="M 450,400 L 580,135 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 450,400 L 150,410 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 580,340 L 815,440 Z" style="stroke: rgb(0%,40%,36%); stroke-linecap: butt; stroke-width: 2.6;"/>
+			<polygon points="799.3574 433.3436, 789.5098 433.5002, 792.6422 426.1389" style="stroke: rgb(0%,40%,36%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,40%,36%); fill-rule: evenodd;"/>
+			<path d="M 580,340 L 580,135 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 580,340 L 815,165 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 815,440 L 815,585 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 815,440 L 815,165 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 815,440 L 590,675 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 815,585 L 290,585 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 815,585 L 590,675 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 290,585 L 100,585 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 290,585 L 150,410 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 290,585 L 590,675 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 100,585 L 150,410 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 100,585 L 75,185 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 150,410 L 75,185 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 150,410 L 315,90 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 75,185 L 315,90 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 315,90 L 580,135 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 315,90 L 815,165 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 815,165 L 580,135 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 450,400 L 420,290 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 580,340 L 420,290 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 580,135 L 420,290 Z" style="stroke: rgb(73%,78%,77%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<circle cx="450.0" cy="400.0" r="12" style="stroke: rgb(0%,40%,36%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,40%,36%); fill-rule: evenodd;"/>
+			<text x="446.38916015625" y="396.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,793) scale(1,-1)">A</text>
+			<circle cx="580.0" cy="340.0" r="12" style="stroke: rgb(0%,40%,36%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,40%,36%); fill-rule: evenodd;"/>
+			<text x="576.38916015625" y="336.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,673) scale(1,-1)">B</text>
+			<circle cx="815.0" cy="440.0" r="12" style="stroke: rgb(0%,40%,36%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,40%,36%); fill-rule: evenodd;"/>
+			<text x="811.38916015625" y="436.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,873) scale(1,-1)">C</text>
+			<circle cx="815.0" cy="585.0" r="12" style="stroke: rgb(7%,16%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="811.38916015625" y="581.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(7%,16%,20%); stroke:none;" transform="translate(0,1163) scale(1,-1)">D</text>
+			<circle cx="290.0" cy="585.0" r="12" style="stroke: rgb(7%,16%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="286.6650390625" y="581.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(7%,16%,20%); stroke:none;" transform="translate(0,1163) scale(1,-1)">E</text>
+			<circle cx="100.0" cy="585.0" r="12" style="stroke: rgb(7%,16%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="96.94580078125" y="581.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(7%,16%,20%); stroke:none;" transform="translate(0,1163) scale(1,-1)">F</text>
+			<circle cx="150.0" cy="410.0" r="12" style="stroke: rgb(7%,16%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="146.11083984375" y="406.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(7%,16%,20%); stroke:none;" transform="translate(0,813) scale(1,-1)">G</text>
+			<circle cx="75.0" cy="185.0" r="12" style="stroke: rgb(7%,16%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="71.38916015625" y="181.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(7%,16%,20%); stroke:none;" transform="translate(0,363) scale(1,-1)">H</text>
+			<circle cx="315.0" cy="90.0" r="12" style="stroke: rgb(7%,16%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="313.61083984375" y="86.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(7%,16%,20%); stroke:none;" transform="translate(0,173) scale(1,-1)">I</text>
+			<circle cx="815.0" cy="165.0" r="12" style="stroke: rgb(7%,16%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="812.21923828125" y="161.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(7%,16%,20%); stroke:none;" transform="translate(0,323) scale(1,-1)">J</text>
+			<circle cx="580.0" cy="135.0" r="12" style="stroke: rgb(7%,16%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="576.38916015625" y="131.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(7%,16%,20%); stroke:none;" transform="translate(0,263) scale(1,-1)">K</text>
+			<circle cx="590.0" cy="675.0" r="12" style="stroke: rgb(7%,16%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="586.94580078125" y="671.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(7%,16%,20%); stroke:none;" transform="translate(0,1343) scale(1,-1)">L</text>
+			<circle cx="420.0" cy="290.0" r="12" style="stroke: rgb(7%,16%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="415.8349609375" y="286.5" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(7%,16%,20%); stroke:none;" transform="translate(0,573) scale(1,-1)">M</text>
+		</g>
+	</g>
+</svg>

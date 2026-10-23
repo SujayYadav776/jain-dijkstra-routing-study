@@ -1,0 +1,16 @@
+{
+  "markdown": "```json\n{\"code\":\"Ok\",\"routes\":[{\"legs\":[{\"steps\":[],\"weight\":96.4,\"summary\":\"\",\"duration\":96.4,\"distance\":1084.2}],\"weight_name\":\"routability\",\"geometry\":{\"coordinates\":[[77.592131,12.918222],[77.592603,12.91717],[77.592587,12.916946],[77.5969,12.91686],[77.599871,12.916824],[77.599899,12.918103]],\"type\":\"LineString\"},\"weight\":96.4,\"duration\":96.4,\"distance\":1084.2}],\"waypoints\":[{\"hint\":\"-aS_ki29gJMHAAAAIwAAAAAAAAAAAAAAGfqfQPBxwUEAAAAAAAAAAAcAAAAjAAAAAAAAAAAAAADnKAEAQ_afBM4dxQBC9Z8Ebh3FAAAA7wkAAAAA\",\"location\":[77.592131,12.918222],\"name\":\"41st Cross Road- District Fund Road\",\"distance\":29.84269995},{\"hint\":\"H-WRgf___3-lAAAArQAAAAQAAAAHAAAAuFIKQw2pu0BJck1AKzW-QKUAAACtAAAABAAAAAcAAADnKAEAmxSgBFcdxQAIEqAEZR3FAAIAHwAAAAAA\",\"location\":[77.599899,12.918103],\"name\":\"Bannerghatta Road\",\"distance\":71.52963109}]}\n```",
+  "metadata": {
+    "scrapeId": "01a14acf-149c-722b-8bc9-a7e8146a255b",
+    "sourceURL": "https://router.project-osrm.org/route/v1/driving/77.5918744,12.9181257;77.5992404,12.9181171?overview=simplified&geometries=geojson&alternatives=true&steps=false",
+    "url": "https://router.project-osrm.org/route/v1/driving/77.5918744,12.9181257;77.5992404,12.9181171?overview=simplified&geometries=geojson&alternatives=true&steps=false",
+    "statusCode": 200,
+    "contentType": "application/json; charset=UTF-8",
+    "timezone": "America/New_York",
+    "proxyUsed": "basic",
+    "cacheState": "miss",
+    "indexId": "d76d9c5b-99a4-4cb5-b2ca-7796dbe25f40",
+    "creditsUsed": 1,
+    "concurrencyLimited": false
+  }
+}

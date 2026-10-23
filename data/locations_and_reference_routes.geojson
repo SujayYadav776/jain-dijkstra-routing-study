@@ -1,0 +1,633 @@
+{
+  "type": "FeatureCollection",
+  "name": "JAIN study - OpenStreetMap-derived reference points and OSRM routes",
+  "attribution": "OpenStreetMap contributors, ODbL 1.0; https://www.openstreetmap.org/copyright",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A",
+        "name": "JAIN University (source)",
+        "kind": "mapped_location",
+        "snap_m": 29.84269995,
+        "osm_url": "https://www.openstreetmap.org/way/164569256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5918744,
+          12.9181257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A",
+        "name": "JAIN University (source)",
+        "kind": "road_reference",
+        "snap_m": 29.84269995,
+        "osm_url": "https://www.openstreetmap.org/way/164569256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.592131,
+          12.918222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "B",
+        "name": "Ragigudda bus stop",
+        "kind": "mapped_location",
+        "snap_m": 4.094742648,
+        "osm_url": "https://www.openstreetmap.org/node/6495482465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5933846,
+          12.9167987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "B",
+        "name": "Ragigudda bus stop",
+        "kind": "road_reference",
+        "snap_m": 4.094742648,
+        "osm_url": "https://www.openstreetmap.org/node/6495482465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.593386,
+          12.916836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C",
+        "name": "Jayadeva hospital",
+        "kind": "mapped_location",
+        "snap_m": 71.52963109,
+        "osm_url": "https://www.openstreetmap.org/way/40678727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5992404,
+          12.9181171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C",
+        "name": "Jayadeva hospital",
+        "kind": "road_reference",
+        "snap_m": 71.52963109,
+        "osm_url": "https://www.openstreetmap.org/way/40678727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.599899,
+          12.918103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "D",
+        "name": "Sagar Hospitals",
+        "kind": "mapped_location",
+        "snap_m": 41.56225006,
+        "osm_url": "https://www.openstreetmap.org/way/442048030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5998498,
+          12.927948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "D",
+        "name": "Sagar Hospitals",
+        "kind": "road_reference",
+        "snap_m": 41.56225006,
+        "osm_url": "https://www.openstreetmap.org/way/442048030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.600233,
+          12.927949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "E",
+        "name": "Jayanagar TTMC",
+        "kind": "mapped_location",
+        "snap_m": 2.433856703,
+        "osm_url": "https://www.openstreetmap.org/way/752917438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5838685,
+          12.9281714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "E",
+        "name": "Jayanagar TTMC",
+        "kind": "road_reference",
+        "snap_m": 2.433856703,
+        "osm_url": "https://www.openstreetmap.org/way/752917438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.583869,
+          12.928193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "F",
+        "name": "Jayanagar metro bus stop",
+        "kind": "mapped_location",
+        "snap_m": 3.761414905,
+        "osm_url": "https://www.openstreetmap.org/node/12462601105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.580345,
+          12.9287715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "F",
+        "name": "Jayanagar metro bus stop",
+        "kind": "road_reference",
+        "snap_m": 3.761414905,
+        "osm_url": "https://www.openstreetmap.org/node/12462601105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.580345,
+          12.928738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "G",
+        "name": "RV Road station reference",
+        "kind": "mapped_location",
+        "snap_m": 6.836586105,
+        "osm_url": "https://www.openstreetmap.org/node/13046011008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5800465,
+          12.9219877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "G",
+        "name": "RV Road station reference",
+        "kind": "road_reference",
+        "snap_m": 6.836586105,
+        "osm_url": "https://www.openstreetmap.org/node/13046011008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58011,
+          12.921988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H",
+        "name": "Banashankari bus stop",
+        "kind": "mapped_location",
+        "snap_m": 4.085152792,
+        "osm_url": "https://www.openstreetmap.org/node/1070314214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5730685,
+          12.9166305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H",
+        "name": "Banashankari bus stop",
+        "kind": "road_reference",
+        "snap_m": 4.085152792,
+        "osm_url": "https://www.openstreetmap.org/node/1070314214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.573057,
+          12.916666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "I",
+        "name": "Ranga Shankara",
+        "kind": "mapped_location",
+        "snap_m": 23.67330787,
+        "osm_url": "https://www.openstreetmap.org/node/1732931230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58708,
+          12.9116079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "I",
+        "name": "Ranga Shankara",
+        "kind": "road_reference",
+        "snap_m": 23.67330787,
+        "osm_url": "https://www.openstreetmap.org/node/1732931230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.586862,
+          12.911616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "J",
+        "name": "Gopalan Innovation Mall",
+        "kind": "mapped_location",
+        "snap_m": 39.84441504,
+        "osm_url": "https://www.openstreetmap.org/way/118923756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5994538,
+          12.9143393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "J",
+        "name": "Gopalan Innovation Mall",
+        "kind": "road_reference",
+        "snap_m": 39.84441504,
+        "osm_url": "https://www.openstreetmap.org/way/118923756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.599821,
+          12.91435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "K",
+        "name": "Ragigudda Temple",
+        "kind": "mapped_location",
+        "snap_m": 67.20649542,
+        "osm_url": "https://www.openstreetmap.org/node/362539259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5933299,
+          12.9141893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "K",
+        "name": "Ragigudda Temple",
+        "kind": "road_reference",
+        "snap_m": 67.20649542,
+        "osm_url": "https://www.openstreetmap.org/node/362539259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.59391,
+          12.913976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L",
+        "name": "NIMHANS hospital reference",
+        "kind": "mapped_location",
+        "snap_m": 200.4959016,
+        "osm_url": "https://www.openstreetmap.org/node/6938777910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5944105,
+          12.9386321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "L",
+        "name": "NIMHANS hospital reference",
+        "kind": "road_reference",
+        "snap_m": 200.4959016,
+        "osm_url": "https://www.openstreetmap.org/node/6938777910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.592567,
+          12.938519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "A",
+        "target": "C",
+        "kind": "OSRM_direct_reference",
+        "distance_m": 1084.2,
+        "duration_s": 96.4,
+        "basis": "static car-profile reference, not teaching graph route"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            77.592131,
+            12.918222
+          ],
+          [
+            77.592603,
+            12.91717
+          ],
+          [
+            77.592587,
+            12.916946
+          ],
+          [
+            77.5969,
+            12.91686
+          ],
+          [
+            77.599871,
+            12.916824
+          ],
+          [
+            77.599899,
+            12.918103
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "A",
+        "target": "D",
+        "kind": "OSRM_direct_reference",
+        "distance_m": 2282.3,
+        "duration_s": 182.2,
+        "basis": "static car-profile reference, not teaching graph route"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            77.592131,
+            12.918222
+          ],
+          [
+            77.592603,
+            12.91717
+          ],
+          [
+            77.592587,
+            12.916946
+          ],
+          [
+            77.599871,
+            12.916824
+          ],
+          [
+            77.60043,
+            12.928324
+          ],
+          [
+            77.600232,
+            12.928328
+          ],
+          [
+            77.600233,
+            12.927949
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "A",
+        "target": "L",
+        "kind": "OSRM_direct_reference",
+        "distance_m": 2496.1,
+        "duration_s": 250.9,
+        "basis": "static car-profile reference, not teaching graph route"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            77.592131,
+            12.918222
+          ],
+          [
+            77.591808,
+            12.919039
+          ],
+          [
+            77.592629,
+            12.91898
+          ],
+          [
+            77.592979,
+            12.920123
+          ],
+          [
+            77.593438,
+            12.920748
+          ],
+          [
+            77.593564,
+            12.928478
+          ],
+          [
+            77.5925,
+            12.92847
+          ],
+          [
+            77.592728,
+            12.935749
+          ],
+          [
+            77.592567,
+            12.938519
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "M",
+        "name": "Manipal Hospital, Jayanagar",
+        "kind": "mapped_location",
+        "snap_m": 20.81227902,
+        "osm_url": "https://www.openstreetmap.org/way/632086875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5919041,
+          12.9171534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "M",
+        "name": "Manipal Hospital, Jayanagar",
+        "kind": "road_reference",
+        "snap_m": 20.81227902,
+        "osm_url": "https://www.openstreetmap.org/way/632086875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.591897,
+          12.916965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "A",
+        "target": "M",
+        "kind": "OSRM_direct_reference",
+        "distance_m": 779.5,
+        "duration_s": 64.5,
+        "basis": "static car-profile reference; M added 20 October 2026"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            77.592131,
+            12.918222
+          ],
+          [
+            77.592603,
+            12.91717
+          ],
+          [
+            77.592584,
+            12.916841
+          ],
+          [
+            77.590202,
+            12.916869
+          ],
+          [
+            77.589507,
+            12.916935
+          ],
+          [
+            77.589509,
+            12.917126
+          ],
+          [
+            77.590174,
+            12.91701
+          ],
+          [
+            77.591897,
+            12.916965
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

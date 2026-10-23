@@ -1,0 +1,33 @@
+{
+  "official_university": {
+    "url": "https://www.jainuniversity.ac.in/contact/top-indian-university-with-best-colleges-with-location-maps",
+    "address": "#44/4, District Fund Road, Jayanagar 9th block, Bengaluru, Karnataka, India - 560041"
+  },
+  "osrm_docs": {
+    "url": "https://project-osrm.org/docs/",
+    "status_code": 200
+  },
+  "osrm_profile": {
+    "url": "https://raw.githubusercontent.com/Project-OSRM/osrm-backend/master/profiles/car.lua",
+    "status_code": 200
+  },
+  "nhs": {
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/07/20220725-AmbSYS-specification.pdf",
+    "status_code": 200
+  },
+  "karnataka_secondary": {
+    "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-108-ambulance-service-failed-to-provide-service-within-golden-hour-in-50-trauma-cases-says-cag/articleshow/79648476.cms",
+    "title": "Karnataka 108 ambulance service audit coverage",
+    "publication_date": "2020-12-09",
+    "audit_period": "2014-15 to 2018-19",
+    "urban_mean_target_min": 20,
+    "rural_mean_target_min": 30,
+    "within_30_min_percent": 72,
+    "source_type": "Secondary news report citing CAG; not a current operational benchmark"
+  },
+  "manipal_jayanagar": {
+    "url": "https://www.manipalhospitals.com/jayanagar/contact-us/",
+    "address": "45/1, 45th Cross, Jayanagara 9th Block, Bengaluru, Karnataka 560069",
+    "retrieved_date": "2026-10-20"
+  }
+}

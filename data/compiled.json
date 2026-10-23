@@ -1,0 +1,4715 @@
+{
+  "nodes": [
+    {
+      "id": "A",
+      "name": "Jain University",
+      "kind": "University / source",
+      "place_id": 250459046,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 164569256,
+      "lat": "12.9181257",
+      "lon": "77.5918744",
+      "category": "amenity",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 0.32592895108882386,
+      "addresstype": "amenity",
+      "display_name": "Jain University, 41st Cross Road- District Fund Road, Marenahalli, Jayanagar 9th Block, Pattabhirama Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560041, India",
+      "boundingbox": [
+        "12.9175654",
+        "12.9186860",
+        "77.5915472",
+        "77.5922015"
+      ],
+      "source_url": "https://nominatim.openstreetmap.org/search?q=Jain%20University%20Jayanagar%20Bengaluru&format=jsonv2&limit=3",
+      "road_lon": 77.592131,
+      "road_lat": 12.918222,
+      "snap_m": 29.84269995,
+      "road_name": "41st Cross Road- District Fund Road",
+      "label": "JAIN University (source)"
+    },
+    {
+      "place_id": 252378057,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6495482465,
+      "lat": "12.9167987",
+      "lon": "77.5933846",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "highway",
+      "name": "Ragigudda",
+      "display_name": "Ragigudda, Marenahalli Road, Marenahalli, Pattabhirama Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560078, India",
+      "boundingbox": [
+        "12.9167487",
+        "12.9168487",
+        "77.5933346",
+        "77.5934346"
+      ],
+      "id": "B",
+      "kind": "bus_stop",
+      "source_url": "https://nominatim.openstreetmap.org/search?q=Ragigudda%20Bengaluru&format=jsonv2&limit=3",
+      "road_lon": 77.593386,
+      "road_lat": 12.916836,
+      "snap_m": 4.094742648,
+      "road_name": "Marenahalli Road",
+      "label": "Ragigudda bus stop"
+    },
+    {
+      "place_id": 252119737,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 40678727,
+      "lat": "12.9181171",
+      "lon": "77.5992404",
+      "category": "amenity",
+      "type": "hospital",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "amenity",
+      "name": "Sri Jayadeva Institute Of Cardiology",
+      "display_name": "Sri Jayadeva Institute Of Cardiology, Bannerghatta Road, J.P Nagar, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560041, India",
+      "boundingbox": [
+        "12.9168789",
+        "12.9201730",
+        "77.5985958",
+        "77.5999343"
+      ],
+      "id": "C",
+      "kind": "hospital",
+      "source_url": "https://nominatim.openstreetmap.org/search?q=Sri%20Jayadeva%20Institute%20Bengaluru&format=jsonv2&limit=3",
+      "road_lon": 77.599899,
+      "road_lat": 12.918103,
+      "snap_m": 71.52963109,
+      "road_name": "Bannerghatta Road",
+      "label": "Jayadeva hospital"
+    },
+    {
+      "place_id": 251949818,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 442048030,
+      "lat": "12.9279480",
+      "lon": "77.5998498",
+      "category": "amenity",
+      "type": "hospital",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "amenity",
+      "name": "Sagar Hospitals",
+      "display_name": "Sagar Hospitals, Bannerghatta Road, Jayanagar, Tilak Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560041, India",
+      "boundingbox": [
+        "12.9275145",
+        "12.9282826",
+        "77.5993228",
+        "77.6003872"
+      ],
+      "id": "D",
+      "kind": "hospital",
+      "source_url": "https://nominatim.openstreetmap.org/search?q=Sagar%20Hospitals%20Jayanagar%20Bengaluru&format=jsonv2&limit=1",
+      "road_lon": 77.600233,
+      "road_lat": 12.927949,
+      "snap_m": 41.56225006,
+      "road_name": "",
+      "label": "Sagar Hospitals"
+    },
+    {
+      "place_id": 249153521,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 752917438,
+      "lat": "12.9281714",
+      "lon": "77.5838685",
+      "category": "amenity",
+      "type": "bus_station",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "amenity",
+      "name": "Jayanagar TTMC",
+      "display_name": "Jayanagar TTMC, 9th Main Road, Geetha Colony, Jayanagar 4th Block, Tilak Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560011, India",
+      "boundingbox": [
+        "12.9279169",
+        "12.9285804",
+        "77.5836709",
+        "77.5850103"
+      ],
+      "id": "E",
+      "kind": "bus_station",
+      "source_url": "https://nominatim.openstreetmap.org/search?q=Jayanagar%20bus%20station&format=jsonv2&limit=3",
+      "road_lon": 77.583869,
+      "road_lat": 12.928193,
+      "snap_m": 2.433856703,
+      "road_name": "",
+      "label": "Jayanagar TTMC"
+    },
+    {
+      "place_id": 252120596,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12462601105,
+      "lat": "12.9287715",
+      "lon": "77.5803450",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "highway",
+      "name": "Jayanagara Metro Station",
+      "display_name": "Jayanagara Metro Station, 30th Cross Road, Geetha Colony, Jayanagar 4th Block, Byrasandra, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560011, India",
+      "boundingbox": [
+        "12.9287215",
+        "12.9288215",
+        "77.5802950",
+        "77.5803950"
+      ],
+      "id": "F",
+      "kind": "bus_stop",
+      "source_url": "https://nominatim.openstreetmap.org/search?q=Jayanagar%20Metro%20Station&format=jsonv2&limit=2",
+      "road_lon": 77.580345,
+      "road_lat": 12.928738,
+      "snap_m": 3.761414905,
+      "road_name": "30th Cross Road",
+      "label": "Jayanagar metro bus stop"
+    },
+    {
+      "place_id": 425000124,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13046011008,
+      "lat": "12.9219877",
+      "lon": "77.5800465",
+      "category": "railway",
+      "type": "stop",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "railway",
+      "name": "Rashtreeya Vidyalaya Road",
+      "display_name": "Rashtreeya Vidyalaya Road, Rashtriya Vidyalaya Road, Pattabhirama Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560070, India",
+      "boundingbox": [
+        "12.9219377",
+        "12.9220377",
+        "77.5799965",
+        "77.5800965"
+      ],
+      "id": "G",
+      "kind": "stop",
+      "source_url": "https://nominatim.openstreetmap.org/search?q=Rashtreeya%20Vidyalaya%20Road%20Bengaluru&format=jsonv2&limit=2",
+      "road_lon": 77.58011,
+      "road_lat": 12.921988,
+      "snap_m": 6.836586105,
+      "road_name": "",
+      "label": "RV Road station reference"
+    },
+    {
+      "place_id": 250461114,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1070314214,
+      "lat": "12.9166305",
+      "lon": "77.5730685",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "highway",
+      "name": "Banashankari Bus Station (Towards Kadirenahalli)",
+      "display_name": "Banashankari Bus Station (Towards Kadirenahalli), Subramaniapura Road, Banashankari Temple Ward, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560078, India",
+      "boundingbox": [
+        "12.9165805",
+        "12.9166805",
+        "77.5730185",
+        "77.5731185"
+      ],
+      "id": "H",
+      "kind": "bus_stop",
+      "source_url": "https://nominatim.openstreetmap.org/search?q=Banashankari%20bus%20station%20Bengaluru&format=jsonv2&limit=2",
+      "road_lon": 77.573057,
+      "road_lat": 12.916666,
+      "snap_m": 4.085152792,
+      "road_name": "Subramaniapura Road",
+      "label": "Banashankari bus stop"
+    },
+    {
+      "place_id": 251908151,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1732931230,
+      "lat": "12.9116079",
+      "lon": "77.5870800",
+      "category": "amenity",
+      "type": "theatre",
+      "place_rank": 30,
+      "importance": 0.26922332516764147,
+      "addresstype": "amenity",
+      "name": "Ranga Shankara",
+      "display_name": "Ranga Shankara, 23rd Main Road, JP Nagar 2nd Phase, Marenahalli South, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560078, India",
+      "boundingbox": [
+        "12.9115579",
+        "12.9116579",
+        "77.5870300",
+        "77.5871300"
+      ],
+      "id": "I",
+      "kind": "theatre",
+      "source_url": "https://nominatim.openstreetmap.org/search?q=Ranga%20Shankara&format=jsonv2&limit=2",
+      "road_lon": 77.586862,
+      "road_lat": 12.911616,
+      "snap_m": 23.67330787,
+      "road_name": "23rd Main Road",
+      "label": "Ranga Shankara"
+    },
+    {
+      "place_id": 251772581,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 118923756,
+      "lat": "12.9143393",
+      "lon": "77.5994538",
+      "category": "shop",
+      "type": "mall",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "shop",
+      "name": "Gopalan Innovation Mall",
+      "display_name": "Gopalan Innovation Mall, Bannerghatta Road, J.P Nagar, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560078, India",
+      "boundingbox": [
+        "12.9138531",
+        "12.9148255",
+        "77.5993001",
+        "77.5996075"
+      ],
+      "id": "J",
+      "kind": "mall",
+      "source_url": "https://nominatim.openstreetmap.org/search?q=Gopalan%20Innovation%20Mall&format=jsonv2&limit=2",
+      "road_lon": 77.599821,
+      "road_lat": 12.91435,
+      "snap_m": 39.84441504,
+      "road_name": "Bannerghatta Road",
+      "label": "Gopalan Innovation Mall"
+    },
+    {
+      "place_id": 250468037,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 362539259,
+      "lat": "12.9141893",
+      "lon": "77.5933299",
+      "category": "amenity",
+      "type": "place_of_worship",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "amenity",
+      "name": "Ragigudda Temple",
+      "display_name": "Ragigudda Temple, 5th Cross Road, KSRTC Layout, JP Nagar 2nd Phase, JP Nagar, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560078, India",
+      "boundingbox": [
+        "12.9141393",
+        "12.9142393",
+        "77.5932799",
+        "77.5933799"
+      ],
+      "id": "K",
+      "kind": "place_of_worship",
+      "source_url": "https://nominatim.openstreetmap.org/search?q=Ragigudda%20temple&format=jsonv2&limit=2",
+      "road_lon": 77.59391,
+      "road_lat": 12.913976,
+      "snap_m": 67.20649542,
+      "road_name": "",
+      "label": "Ragigudda Temple"
+    },
+    {
+      "place_id": 249357145,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6938777910,
+      "lat": "12.9386321",
+      "lon": "77.5944105",
+      "category": "amenity",
+      "type": "hospital",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "amenity",
+      "name": "National Institute of Mental Health and Neuro Sciences",
+      "display_name": "National Institute of Mental Health and Neuro Sciences, NIMHANS Quarters, BHEL Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560029, India",
+      "boundingbox": [
+        "12.9385821",
+        "12.9386821",
+        "77.5943605",
+        "77.5944605"
+      ],
+      "id": "L",
+      "kind": "hospital",
+      "source_url": "https://nominatim.openstreetmap.org/search?q=NIMHANS%20Bengaluru&format=jsonv2&limit=2",
+      "road_lon": 77.592567,
+      "road_lat": 12.938519,
+      "snap_m": 200.4959016,
+      "road_name": "",
+      "label": "NIMHANS hospital reference"
+    },
+    {
+      "place_id": 251946260,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 632086875,
+      "lat": "12.9171534",
+      "lon": "77.5919041",
+      "category": "building",
+      "type": "hospital",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "building",
+      "name": "Manipal Hospital, Jayanagar (Malathi Manipal)",
+      "display_name": "Malathi Manipal Hospital, Marenahalli Road, DK Naik Nagar, Jayanagar 9th Block, Pattabhirama Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560041, India",
+      "boundingbox": [
+        "12.9170624",
+        "12.9173999",
+        "77.5916936",
+        "77.5921185"
+      ],
+      "id": "M",
+      "label": "Manipal Hospital, Jayanagar",
+      "kind": "hospital",
+      "source_url": "https://nominatim.openstreetmap.org/search?q=Manipal%20Hospital%20Jayanagar%20Bengaluru&format=jsonv2&limit=3",
+      "official_url": "https://www.manipalhospitals.com/jayanagar/contact-us/",
+      "road_lon": 77.591897,
+      "road_lat": 12.916965,
+      "snap_m": 20.81227902,
+      "road_name": "Marenahalli Road"
+    }
+  ],
+  "edges": [
+    {
+      "source": "A",
+      "target": "B",
+      "corridor": "AB",
+      "distance_m": 618.5,
+      "duration_s": 58.7,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "B",
+      "target": "A",
+      "corridor": "AB",
+      "distance_m": 250.7,
+      "duration_s": 28.8,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "A",
+      "target": "K",
+      "corridor": "AK",
+      "distance_m": 829.9,
+      "duration_s": 83.3,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "K",
+      "target": "A",
+      "corridor": "AK",
+      "distance_m": 821.7,
+      "duration_s": 83.9,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "A",
+      "target": "G",
+      "corridor": "AG",
+      "distance_m": 2053.7,
+      "duration_s": 171.2,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "G",
+      "target": "A",
+      "corridor": "AG",
+      "distance_m": 2358.6,
+      "duration_s": 179.8,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "B",
+      "target": "C",
+      "corridor": "BC",
+      "distance_m": 878.5,
+      "duration_s": 72.2,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "C",
+      "target": "B",
+      "corridor": "BC",
+      "distance_m": 1400,
+      "duration_s": 121.6,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "B",
+      "target": "K",
+      "corridor": "BK",
+      "distance_m": 624.2,
+      "duration_s": 59.1,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "K",
+      "target": "B",
+      "corridor": "BK",
+      "distance_m": 571,
+      "duration_s": 55.1,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "B",
+      "target": "J",
+      "corridor": "BJ",
+      "distance_m": 1367.9,
+      "duration_s": 123.7,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "J",
+      "target": "B",
+      "corridor": "BJ",
+      "distance_m": 953.2,
+      "duration_s": 71.1,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "C",
+      "target": "D",
+      "corridor": "CD",
+      "distance_m": 1198,
+      "duration_s": 85.8,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "D",
+      "target": "C",
+      "corridor": "CD",
+      "distance_m": 2107,
+      "duration_s": 202.2,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "C",
+      "target": "J",
+      "corridor": "CJ",
+      "distance_m": 1434.1,
+      "duration_s": 118,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "J",
+      "target": "C",
+      "corridor": "CJ",
+      "distance_m": 1067.1,
+      "duration_s": 95,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "C",
+      "target": "L",
+      "corridor": "CL",
+      "distance_m": 3110.9,
+      "duration_s": 237.3,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "L",
+      "target": "C",
+      "corridor": "CL",
+      "distance_m": 3370.4,
+      "duration_s": 307.5,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "D",
+      "target": "E",
+      "corridor": "DE",
+      "distance_m": 2435.5,
+      "duration_s": 234.8,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "E",
+      "target": "D",
+      "corridor": "DE",
+      "distance_m": 2368.2,
+      "duration_s": 221.1,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "D",
+      "target": "L",
+      "corridor": "DL",
+      "distance_m": 1996.7,
+      "duration_s": 174.2,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "L",
+      "target": "D",
+      "corridor": "DL",
+      "distance_m": 2072.5,
+      "duration_s": 195,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "E",
+      "target": "F",
+      "corridor": "EF",
+      "distance_m": 771.2,
+      "duration_s": 68.3,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "F",
+      "target": "E",
+      "corridor": "EF",
+      "distance_m": 454.3,
+      "duration_s": 51.6,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "E",
+      "target": "G",
+      "corridor": "EG",
+      "distance_m": 1571.5,
+      "duration_s": 150.4,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "G",
+      "target": "E",
+      "corridor": "EG",
+      "distance_m": 1131.8,
+      "duration_s": 109.8,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "E",
+      "target": "L",
+      "corridor": "EL",
+      "distance_m": 2611.6,
+      "duration_s": 229.4,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "L",
+      "target": "E",
+      "corridor": "EL",
+      "distance_m": 2306,
+      "duration_s": 236,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "F",
+      "target": "G",
+      "corridor": "FG",
+      "distance_m": 1228.6,
+      "duration_s": 119.4,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "G",
+      "target": "F",
+      "corridor": "FG",
+      "distance_m": 817.5,
+      "duration_s": 71.9,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "F",
+      "target": "H",
+      "corridor": "FH",
+      "distance_m": 1974.3,
+      "duration_s": 146.9,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "H",
+      "target": "F",
+      "corridor": "FH",
+      "distance_m": 1974.9,
+      "duration_s": 182.7,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "G",
+      "target": "H",
+      "corridor": "GH",
+      "distance_m": 1523.2,
+      "duration_s": 120.5,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "H",
+      "target": "G",
+      "corridor": "GH",
+      "distance_m": 1511.9,
+      "duration_s": 172.6,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "G",
+      "target": "I",
+      "corridor": "GI",
+      "distance_m": 2196,
+      "duration_s": 173.8,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "I",
+      "target": "G",
+      "corridor": "GI",
+      "distance_m": 1850.1,
+      "duration_s": 174.4,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "H",
+      "target": "I",
+      "corridor": "HI",
+      "distance_m": 2657.1,
+      "duration_s": 245,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "I",
+      "target": "H",
+      "corridor": "HI",
+      "distance_m": 2137,
+      "duration_s": 160.3,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "I",
+      "target": "K",
+      "corridor": "IK",
+      "distance_m": 1227.2,
+      "duration_s": 141.1,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "K",
+      "target": "I",
+      "corridor": "IK",
+      "distance_m": 1648.3,
+      "duration_s": 157.1,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "I",
+      "target": "J",
+      "corridor": "IJ",
+      "distance_m": 1959,
+      "duration_s": 164.6,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "J",
+      "target": "I",
+      "corridor": "IJ",
+      "distance_m": 2465,
+      "duration_s": 189.7,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "J",
+      "target": "K",
+      "corridor": "JK",
+      "distance_m": 1164.6,
+      "duration_s": 103.8,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "K",
+      "target": "J",
+      "corridor": "JK",
+      "distance_m": 1017.4,
+      "duration_s": 108.6,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration"
+    },
+    {
+      "source": "A",
+      "target": "M",
+      "corridor": "AM",
+      "distance_m": 779.5,
+      "duration_s": 64.5,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321;77.5919041,12.9171534?annotations=distance,duration"
+    },
+    {
+      "source": "M",
+      "target": "A",
+      "corridor": "AM",
+      "distance_m": 227,
+      "duration_s": 29.9,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321;77.5919041,12.9171534?annotations=distance,duration"
+    },
+    {
+      "source": "B",
+      "target": "M",
+      "corridor": "BM",
+      "distance_m": 702.9,
+      "duration_s": 45.9,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321;77.5919041,12.9171534?annotations=distance,duration"
+    },
+    {
+      "source": "M",
+      "target": "B",
+      "corridor": "BM",
+      "distance_m": 541.3,
+      "duration_s": 36.6,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321;77.5919041,12.9171534?annotations=distance,duration"
+    },
+    {
+      "source": "K",
+      "target": "M",
+      "corridor": "KM",
+      "distance_m": 1273.9,
+      "duration_s": 101,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321;77.5919041,12.9171534?annotations=distance,duration"
+    },
+    {
+      "source": "M",
+      "target": "K",
+      "corridor": "KM",
+      "distance_m": 752.8,
+      "duration_s": 61.2,
+      "basis": "OSRM car-profile corridor; not observed driving",
+      "source_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321;77.5919041,12.9171534?annotations=distance,duration"
+    }
+  ],
+  "results": [
+    {
+      "destination": "B",
+      "name": "Ragigudda bus stop",
+      "distance_route": "A-B",
+      "distance_route_m": 618.5,
+      "distance_route_s": 58.7,
+      "distance_settled": 2,
+      "distance_edges_examined": 4,
+      "distance_code_median_ms": 0.003338,
+      "distance_code_p95_ms": 0.003549,
+      "time_route": "A-B",
+      "time_route_m": 618.5,
+      "time_route_s": 58.7,
+      "time_settled": 2,
+      "time_edges_examined": 4,
+      "time_code_median_ms": 0.003256,
+      "time_code_p95_ms": 0.005752,
+      "osrm_reference_m": 618.5,
+      "osrm_reference_s": 58.7,
+      "google_recommended_m": 11300,
+      "google_recommended_min": 22,
+      "google_comparable": false,
+      "graph_distance_difference_vs_osrm_percent": 0.0,
+      "graph_time_difference_vs_osrm_percent": 0.0
+    },
+    {
+      "destination": "C",
+      "name": "Jayadeva hospital",
+      "distance_route": "A-B-C",
+      "distance_route_m": 1497.0,
+      "distance_route_s": 130.9,
+      "distance_settled": 5,
+      "distance_edges_examined": 17,
+      "distance_code_median_ms": 0.007828,
+      "distance_code_p95_ms": 0.009289,
+      "time_route": "A-B-C",
+      "time_route_m": 1497.0,
+      "time_route_s": 130.9,
+      "time_settled": 5,
+      "time_edges_examined": 17,
+      "time_code_median_ms": 0.006654,
+      "time_code_p95_ms": 0.007636,
+      "osrm_reference_m": 1084.2,
+      "osrm_reference_s": 96.4,
+      "google_recommended_m": 1100,
+      "google_recommended_min": 5,
+      "google_comparable": true,
+      "graph_distance_difference_vs_osrm_percent": 38.07,
+      "graph_time_difference_vs_osrm_percent": 35.79
+    },
+    {
+      "destination": "D",
+      "name": "Sagar Hospitals",
+      "distance_route": "A-B-C-D",
+      "distance_route_m": 2695.0,
+      "distance_route_s": 216.7,
+      "distance_settled": 9,
+      "distance_edges_examined": 34,
+      "distance_code_median_ms": 0.012315,
+      "distance_code_p95_ms": 0.015621,
+      "time_route": "A-B-C-D",
+      "time_route_m": 2695.0,
+      "time_route_s": 216.7,
+      "time_settled": 8,
+      "time_edges_examined": 30,
+      "time_code_median_ms": 0.015875,
+      "time_code_p95_ms": 0.017747,
+      "osrm_reference_m": 2282.3,
+      "osrm_reference_s": 182.2,
+      "google_recommended_m": 2100,
+      "google_recommended_min": 7,
+      "google_comparable": true,
+      "graph_distance_difference_vs_osrm_percent": 18.08,
+      "graph_time_difference_vs_osrm_percent": 18.94
+    },
+    {
+      "destination": "E",
+      "name": "Jayanagar TTMC",
+      "distance_route": "A-G-E",
+      "distance_route_m": 3185.5,
+      "distance_route_s": 281.0,
+      "distance_settled": 11,
+      "distance_edges_examined": 40,
+      "distance_code_median_ms": 0.017509,
+      "distance_code_p95_ms": 0.019126,
+      "time_route": "A-G-E",
+      "time_route_m": 3185.5,
+      "time_route_s": 281.0,
+      "time_settled": 11,
+      "time_edges_examined": 40,
+      "time_code_median_ms": 0.013897,
+      "time_code_p95_ms": 0.01708,
+      "osrm_reference_m": 2523.3,
+      "osrm_reference_s": 198.1,
+      "google_recommended_m": 2500,
+      "google_recommended_min": 8,
+      "google_comparable": true,
+      "graph_distance_difference_vs_osrm_percent": 26.24,
+      "graph_time_difference_vs_osrm_percent": 41.85
+    },
+    {
+      "destination": "F",
+      "name": "Jayanagar metro bus stop",
+      "distance_route": "A-G-F",
+      "distance_route_m": 2871.2,
+      "distance_route_s": 243.1,
+      "distance_settled": 10,
+      "distance_edges_examined": 37,
+      "distance_code_median_ms": 0.012372,
+      "distance_code_p95_ms": 0.014087,
+      "time_route": "A-G-F",
+      "time_route_m": 2871.2,
+      "time_route_s": 243.1,
+      "time_settled": 10,
+      "time_edges_examined": 37,
+      "time_code_median_ms": 0.011114,
+      "time_code_p95_ms": 0.013306,
+      "osrm_reference_m": 2824.1,
+      "osrm_reference_s": 200.8,
+      "google_recommended_m": 2900,
+      "google_recommended_min": 8,
+      "google_comparable": true,
+      "graph_distance_difference_vs_osrm_percent": 1.67,
+      "graph_time_difference_vs_osrm_percent": 21.07
+    },
+    {
+      "destination": "G",
+      "name": "RV Road station reference",
+      "distance_route": "A-G",
+      "distance_route_m": 2053.7,
+      "distance_route_s": 171.2,
+      "distance_settled": 7,
+      "distance_edges_examined": 25,
+      "distance_code_median_ms": 0.01055,
+      "distance_code_p95_ms": 0.011452,
+      "time_route": "A-G",
+      "time_route_m": 2053.7,
+      "time_route_s": 171.2,
+      "time_settled": 6,
+      "time_edges_examined": 21,
+      "time_code_median_ms": 0.009943,
+      "time_code_p95_ms": 0.012152,
+      "osrm_reference_m": 2053.7,
+      "osrm_reference_s": 171.2,
+      "google_recommended_m": 2100,
+      "google_recommended_min": 7,
+      "google_comparable": true,
+      "graph_distance_difference_vs_osrm_percent": 0.0,
+      "graph_time_difference_vs_osrm_percent": 0.0
+    },
+    {
+      "destination": "H",
+      "name": "Banashankari bus stop",
+      "distance_route": "A-G-H",
+      "distance_route_m": 3576.9,
+      "distance_route_s": 291.7,
+      "distance_settled": 12,
+      "distance_edges_examined": 44,
+      "distance_code_median_ms": 0.01786,
+      "distance_code_p95_ms": 0.019268,
+      "time_route": "A-G-H",
+      "time_route_m": 3576.9,
+      "time_route_s": 291.7,
+      "time_settled": 12,
+      "time_edges_examined": 44,
+      "time_code_median_ms": 0.013179,
+      "time_code_p95_ms": 0.015615,
+      "osrm_reference_m": 2340.6,
+      "osrm_reference_s": 157.1,
+      "google_recommended_m": 2400,
+      "google_recommended_min": 8,
+      "google_comparable": true,
+      "graph_distance_difference_vs_osrm_percent": 52.82,
+      "graph_time_difference_vs_osrm_percent": 85.68
+    },
+    {
+      "destination": "I",
+      "name": "Ranga Shankara",
+      "distance_route": "A-K-I",
+      "distance_route_m": 2478.2,
+      "distance_route_s": 240.4,
+      "distance_settled": 8,
+      "distance_edges_examined": 30,
+      "distance_code_median_ms": 0.011439,
+      "distance_code_p95_ms": 0.012686,
+      "time_route": "A-K-I",
+      "time_route_m": 2478.2,
+      "time_route_s": 240.4,
+      "time_settled": 9,
+      "time_edges_examined": 33,
+      "time_code_median_ms": 0.012045,
+      "time_code_p95_ms": 0.014078,
+      "osrm_reference_m": 1588.4,
+      "osrm_reference_s": 137.2,
+      "google_recommended_m": 1600,
+      "google_recommended_min": 6,
+      "google_comparable": true,
+      "graph_distance_difference_vs_osrm_percent": 56.02,
+      "graph_time_difference_vs_osrm_percent": 75.22
+    },
+    {
+      "destination": "J",
+      "name": "Gopalan Innovation Mall",
+      "distance_route": "A-K-J",
+      "distance_route_m": 1847.3,
+      "distance_route_s": 191.9,
+      "distance_settled": 6,
+      "distance_edges_examined": 21,
+      "distance_code_median_ms": 0.010432,
+      "distance_code_p95_ms": 0.012152,
+      "time_route": "A-B-J",
+      "time_route_m": 1986.4,
+      "time_route_s": 182.4,
+      "time_settled": 7,
+      "time_edges_examined": 26,
+      "time_code_median_ms": 0.012725,
+      "time_code_p95_ms": 0.013834,
+      "osrm_reference_m": 1573.6,
+      "osrm_reference_s": 147.9,
+      "google_recommended_m": 1600,
+      "google_recommended_min": 6,
+      "google_comparable": true,
+      "graph_distance_difference_vs_osrm_percent": 17.39,
+      "graph_time_difference_vs_osrm_percent": 23.33
+    },
+    {
+      "destination": "K",
+      "name": "Ragigudda Temple",
+      "distance_route": "A-K",
+      "distance_route_m": 829.9,
+      "distance_route_s": 83.3,
+      "distance_settled": 4,
+      "distance_edges_examined": 12,
+      "distance_code_median_ms": 0.006967,
+      "distance_code_p95_ms": 0.008468,
+      "time_route": "A-K",
+      "time_route_m": 829.9,
+      "time_route_s": 83.3,
+      "time_settled": 4,
+      "time_edges_examined": 12,
+      "time_code_median_ms": 0.009791,
+      "time_code_p95_ms": 0.014497,
+      "osrm_reference_m": 829.9,
+      "osrm_reference_s": 83.3,
+      "google_recommended_m": 700,
+      "google_recommended_min": 3,
+      "google_comparable": true,
+      "graph_distance_difference_vs_osrm_percent": 0.0,
+      "graph_time_difference_vs_osrm_percent": 0.0
+    },
+    {
+      "destination": "L",
+      "name": "NIMHANS hospital reference",
+      "distance_route": "A-B-C-L",
+      "distance_route_m": 4607.9,
+      "distance_route_s": 368.2,
+      "distance_settled": 13,
+      "distance_edges_examined": 47,
+      "distance_code_median_ms": 0.018558,
+      "distance_code_p95_ms": 0.02502,
+      "time_route": "A-B-C-L",
+      "time_route_m": 4607.9,
+      "time_route_s": 368.2,
+      "time_settled": 13,
+      "time_edges_examined": 47,
+      "time_code_median_ms": 0.016039,
+      "time_code_p95_ms": 0.019893,
+      "osrm_reference_m": 2496.1,
+      "osrm_reference_s": 250.9,
+      "google_recommended_m": 2600,
+      "google_recommended_min": 9,
+      "google_comparable": true,
+      "graph_distance_difference_vs_osrm_percent": 84.6,
+      "graph_time_difference_vs_osrm_percent": 46.75
+    },
+    {
+      "destination": "M",
+      "name": "Manipal Hospital, Jayanagar",
+      "distance_route": "A-M",
+      "distance_route_m": 779.5,
+      "distance_route_s": 64.5,
+      "distance_settled": 3,
+      "distance_edges_examined": 9,
+      "distance_code_median_ms": 0.00613,
+      "distance_code_p95_ms": 0.006712,
+      "time_route": "A-M",
+      "time_route_m": 779.5,
+      "time_route_s": 64.5,
+      "time_settled": 3,
+      "time_edges_examined": 9,
+      "time_code_median_ms": 0.006278,
+      "time_code_p95_ms": 0.008199,
+      "osrm_reference_m": 779.5,
+      "osrm_reference_s": 64.5,
+      "google_recommended_m": 2400,
+      "google_recommended_min": 6,
+      "google_comparable": true,
+      "graph_distance_difference_vs_osrm_percent": 0.0,
+      "graph_time_difference_vs_osrm_percent": 0.0
+    }
+  ],
+  "scenarios": [
+    {
+      "destination": "C",
+      "objective": "distance_m",
+      "scenario": "baseline",
+      "route": "A-B-C",
+      "distance_m": 1497.0,
+      "modeled_duration_s": 130.9,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "C",
+      "objective": "distance_m",
+      "scenario": "BC corridor unavailable",
+      "route": "A-K-J-C",
+      "distance_m": 2914.4,
+      "modeled_duration_s": 286.9,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "C",
+      "objective": "distance_m",
+      "scenario": "BC duration tripled",
+      "route": "A-B-C",
+      "distance_m": 1497.0,
+      "modeled_duration_s": 275.3,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "C",
+      "objective": "duration_s",
+      "scenario": "baseline",
+      "route": "A-B-C",
+      "distance_m": 1497.0,
+      "modeled_duration_s": 130.9,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "C",
+      "objective": "duration_s",
+      "scenario": "BC corridor unavailable",
+      "route": "A-B-J-C",
+      "distance_m": 3053.5,
+      "modeled_duration_s": 277.4,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "C",
+      "objective": "duration_s",
+      "scenario": "BC duration tripled",
+      "route": "A-B-C",
+      "distance_m": 1497.0,
+      "modeled_duration_s": 275.3,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "D",
+      "objective": "distance_m",
+      "scenario": "baseline",
+      "route": "A-B-C-D",
+      "distance_m": 2695.0,
+      "modeled_duration_s": 216.7,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "D",
+      "objective": "distance_m",
+      "scenario": "BC corridor unavailable",
+      "route": "A-K-J-C-D",
+      "distance_m": 4112.4,
+      "modeled_duration_s": 372.7,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "D",
+      "objective": "distance_m",
+      "scenario": "BC duration tripled",
+      "route": "A-B-C-D",
+      "distance_m": 2695.0,
+      "modeled_duration_s": 361.1,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "D",
+      "objective": "duration_s",
+      "scenario": "baseline",
+      "route": "A-B-C-D",
+      "distance_m": 2695.0,
+      "modeled_duration_s": 216.7,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "D",
+      "objective": "duration_s",
+      "scenario": "BC corridor unavailable",
+      "route": "A-B-J-C-D",
+      "distance_m": 4251.5,
+      "modeled_duration_s": 363.2,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "D",
+      "objective": "duration_s",
+      "scenario": "BC duration tripled",
+      "route": "A-B-C-D",
+      "distance_m": 2695.0,
+      "modeled_duration_s": 361.1,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "J",
+      "objective": "distance_m",
+      "scenario": "baseline",
+      "route": "A-K-J",
+      "distance_m": 1847.3,
+      "modeled_duration_s": 191.9,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "J",
+      "objective": "distance_m",
+      "scenario": "BC corridor unavailable",
+      "route": "A-K-J",
+      "distance_m": 1847.3,
+      "modeled_duration_s": 191.9,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "J",
+      "objective": "distance_m",
+      "scenario": "BC duration tripled",
+      "route": "A-K-J",
+      "distance_m": 1847.3,
+      "modeled_duration_s": 191.9,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "J",
+      "objective": "duration_s",
+      "scenario": "baseline",
+      "route": "A-B-J",
+      "distance_m": 1986.4,
+      "modeled_duration_s": 182.4,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "J",
+      "objective": "duration_s",
+      "scenario": "BC corridor unavailable",
+      "route": "A-B-J",
+      "distance_m": 1986.4,
+      "modeled_duration_s": 182.4,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "J",
+      "objective": "duration_s",
+      "scenario": "BC duration tripled",
+      "route": "A-B-J",
+      "distance_m": 1986.4,
+      "modeled_duration_s": 182.4,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "L",
+      "objective": "distance_m",
+      "scenario": "baseline",
+      "route": "A-B-C-L",
+      "distance_m": 4607.9,
+      "modeled_duration_s": 368.2,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "L",
+      "objective": "distance_m",
+      "scenario": "BC corridor unavailable",
+      "route": "A-G-E-L",
+      "distance_m": 5797.1,
+      "modeled_duration_s": 510.4,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "L",
+      "objective": "distance_m",
+      "scenario": "BC duration tripled",
+      "route": "A-B-C-L",
+      "distance_m": 4607.9,
+      "modeled_duration_s": 512.6,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "L",
+      "objective": "duration_s",
+      "scenario": "baseline",
+      "route": "A-B-C-L",
+      "distance_m": 4607.9,
+      "modeled_duration_s": 368.2,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "L",
+      "objective": "duration_s",
+      "scenario": "BC corridor unavailable",
+      "route": "A-G-E-L",
+      "distance_m": 5797.1,
+      "modeled_duration_s": 510.4,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "L",
+      "objective": "duration_s",
+      "scenario": "BC duration tripled",
+      "route": "A-G-E-L",
+      "distance_m": 5797.1,
+      "modeled_duration_s": 510.4,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "M",
+      "objective": "distance_m",
+      "scenario": "baseline",
+      "route": "A-M",
+      "distance_m": 779.5,
+      "modeled_duration_s": 64.5,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "M",
+      "objective": "distance_m",
+      "scenario": "BC corridor unavailable",
+      "route": "A-M",
+      "distance_m": 779.5,
+      "modeled_duration_s": 64.5,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "M",
+      "objective": "distance_m",
+      "scenario": "BC duration tripled",
+      "route": "A-M",
+      "distance_m": 779.5,
+      "modeled_duration_s": 64.5,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "M",
+      "objective": "duration_s",
+      "scenario": "baseline",
+      "route": "A-M",
+      "distance_m": 779.5,
+      "modeled_duration_s": 64.5,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "M",
+      "objective": "duration_s",
+      "scenario": "BC corridor unavailable",
+      "route": "A-M",
+      "distance_m": 779.5,
+      "modeled_duration_s": 64.5,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    },
+    {
+      "destination": "M",
+      "objective": "duration_s",
+      "scenario": "BC duration tripled",
+      "route": "A-M",
+      "distance_m": 779.5,
+      "modeled_duration_s": 64.5,
+      "basis": "Controlled teaching scenario, not an observed road closure or traffic event"
+    }
+  ],
+  "traces": {
+    "C_distance": [
+      {
+        "step": 1,
+        "settled": "A",
+        "cost": 0,
+        "updated": [
+          "B",
+          "G",
+          "K",
+          "M"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": null,
+          "J": null,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A"
+        }
+      },
+      {
+        "step": 2,
+        "settled": "B",
+        "cost": 618.5,
+        "updated": [
+          "C",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1986.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 3,
+        "settled": "M",
+        "cost": 779.5,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1986.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 4,
+        "settled": "K",
+        "cost": 829.9,
+        "updated": [
+          "I",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K"
+        }
+      },
+      {
+        "step": 5,
+        "settled": "C",
+        "cost": 1497.0,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K"
+        }
+      }
+    ],
+    "C_time": [
+      {
+        "step": 1,
+        "settled": "A",
+        "cost": 0,
+        "updated": [
+          "B",
+          "G",
+          "K",
+          "M"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": null,
+          "J": null,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A"
+        }
+      },
+      {
+        "step": 2,
+        "settled": "B",
+        "cost": 58.7,
+        "updated": [
+          "C",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 3,
+        "settled": "M",
+        "cost": 64.5,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 4,
+        "settled": "K",
+        "cost": 83.3,
+        "updated": [
+          "I"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K"
+        }
+      },
+      {
+        "step": 5,
+        "settled": "C",
+        "cost": 130.9,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K"
+        }
+      }
+    ],
+    "D_distance": [
+      {
+        "step": 1,
+        "settled": "A",
+        "cost": 0,
+        "updated": [
+          "B",
+          "G",
+          "K",
+          "M"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": null,
+          "J": null,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A"
+        }
+      },
+      {
+        "step": 2,
+        "settled": "B",
+        "cost": 618.5,
+        "updated": [
+          "C",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1986.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 3,
+        "settled": "M",
+        "cost": 779.5,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1986.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 4,
+        "settled": "K",
+        "cost": 829.9,
+        "updated": [
+          "I",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K"
+        }
+      },
+      {
+        "step": 5,
+        "settled": "C",
+        "cost": 1497.0,
+        "updated": [
+          "D",
+          "L"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C"
+        }
+      },
+      {
+        "step": 6,
+        "settled": "J",
+        "cost": 1847.3,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C"
+        }
+      },
+      {
+        "step": 7,
+        "settled": "G",
+        "cost": 2053.7,
+        "updated": [
+          "E",
+          "F",
+          "H"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": 3185.5,
+          "F": 2871.2,
+          "H": 3576.8999999999996,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 8,
+        "settled": "I",
+        "cost": 2478.2,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": 3185.5,
+          "F": 2871.2,
+          "H": 3576.8999999999996,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 9,
+        "settled": "D",
+        "cost": 2695.0,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": 3185.5,
+          "F": 2871.2,
+          "H": 3576.8999999999996,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      }
+    ],
+    "D_time": [
+      {
+        "step": 1,
+        "settled": "A",
+        "cost": 0,
+        "updated": [
+          "B",
+          "G",
+          "K",
+          "M"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": null,
+          "J": null,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A"
+        }
+      },
+      {
+        "step": 2,
+        "settled": "B",
+        "cost": 58.7,
+        "updated": [
+          "C",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 3,
+        "settled": "M",
+        "cost": 64.5,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 4,
+        "settled": "K",
+        "cost": 83.3,
+        "updated": [
+          "I"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K"
+        }
+      },
+      {
+        "step": 5,
+        "settled": "C",
+        "cost": 130.9,
+        "updated": [
+          "D",
+          "L"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C"
+        }
+      },
+      {
+        "step": 6,
+        "settled": "G",
+        "cost": 171.2,
+        "updated": [
+          "E",
+          "F",
+          "H"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 7,
+        "settled": "J",
+        "cost": 182.4,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 8,
+        "settled": "D",
+        "cost": 216.7,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      }
+    ],
+    "J_distance": [
+      {
+        "step": 1,
+        "settled": "A",
+        "cost": 0,
+        "updated": [
+          "B",
+          "G",
+          "K",
+          "M"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": null,
+          "J": null,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A"
+        }
+      },
+      {
+        "step": 2,
+        "settled": "B",
+        "cost": 618.5,
+        "updated": [
+          "C",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1986.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 3,
+        "settled": "M",
+        "cost": 779.5,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1986.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 4,
+        "settled": "K",
+        "cost": 829.9,
+        "updated": [
+          "I",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K"
+        }
+      },
+      {
+        "step": 5,
+        "settled": "C",
+        "cost": 1497.0,
+        "updated": [
+          "D",
+          "L"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C"
+        }
+      },
+      {
+        "step": 6,
+        "settled": "J",
+        "cost": 1847.3,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C"
+        }
+      }
+    ],
+    "J_time": [
+      {
+        "step": 1,
+        "settled": "A",
+        "cost": 0,
+        "updated": [
+          "B",
+          "G",
+          "K",
+          "M"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": null,
+          "J": null,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A"
+        }
+      },
+      {
+        "step": 2,
+        "settled": "B",
+        "cost": 58.7,
+        "updated": [
+          "C",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 3,
+        "settled": "M",
+        "cost": 64.5,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 4,
+        "settled": "K",
+        "cost": 83.3,
+        "updated": [
+          "I"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K"
+        }
+      },
+      {
+        "step": 5,
+        "settled": "C",
+        "cost": 130.9,
+        "updated": [
+          "D",
+          "L"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C"
+        }
+      },
+      {
+        "step": 6,
+        "settled": "G",
+        "cost": 171.2,
+        "updated": [
+          "E",
+          "F",
+          "H"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 7,
+        "settled": "J",
+        "cost": 182.4,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      }
+    ],
+    "L_distance": [
+      {
+        "step": 1,
+        "settled": "A",
+        "cost": 0,
+        "updated": [
+          "B",
+          "G",
+          "K",
+          "M"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": null,
+          "J": null,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A"
+        }
+      },
+      {
+        "step": 2,
+        "settled": "B",
+        "cost": 618.5,
+        "updated": [
+          "C",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1986.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 3,
+        "settled": "M",
+        "cost": 779.5,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1986.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 4,
+        "settled": "K",
+        "cost": 829.9,
+        "updated": [
+          "I",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K"
+        }
+      },
+      {
+        "step": 5,
+        "settled": "C",
+        "cost": 1497.0,
+        "updated": [
+          "D",
+          "L"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C"
+        }
+      },
+      {
+        "step": 6,
+        "settled": "J",
+        "cost": 1847.3,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C"
+        }
+      },
+      {
+        "step": 7,
+        "settled": "G",
+        "cost": 2053.7,
+        "updated": [
+          "E",
+          "F",
+          "H"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": 3185.5,
+          "F": 2871.2,
+          "H": 3576.8999999999996,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 8,
+        "settled": "I",
+        "cost": 2478.2,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": 3185.5,
+          "F": 2871.2,
+          "H": 3576.8999999999996,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 9,
+        "settled": "D",
+        "cost": 2695.0,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": 3185.5,
+          "F": 2871.2,
+          "H": 3576.8999999999996,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 10,
+        "settled": "F",
+        "cost": 2871.2,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": 3185.5,
+          "F": 2871.2,
+          "H": 3576.8999999999996,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 11,
+        "settled": "E",
+        "cost": 3185.5,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": 3185.5,
+          "F": 2871.2,
+          "H": 3576.8999999999996,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 12,
+        "settled": "H",
+        "cost": 3576.8999999999996,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": 3185.5,
+          "F": 2871.2,
+          "H": 3576.8999999999996,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 13,
+        "settled": "L",
+        "cost": 4607.9,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1847.3,
+          "D": 2695.0,
+          "L": 4607.9,
+          "E": 3185.5,
+          "F": 2871.2,
+          "H": 3576.8999999999996,
+          "I": 2478.2,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "K",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      }
+    ],
+    "L_time": [
+      {
+        "step": 1,
+        "settled": "A",
+        "cost": 0,
+        "updated": [
+          "B",
+          "G",
+          "K",
+          "M"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": null,
+          "J": null,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A"
+        }
+      },
+      {
+        "step": 2,
+        "settled": "B",
+        "cost": 58.7,
+        "updated": [
+          "C",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 3,
+        "settled": "M",
+        "cost": 64.5,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 4,
+        "settled": "K",
+        "cost": 83.3,
+        "updated": [
+          "I"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K"
+        }
+      },
+      {
+        "step": 5,
+        "settled": "C",
+        "cost": 130.9,
+        "updated": [
+          "D",
+          "L"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C"
+        }
+      },
+      {
+        "step": 6,
+        "settled": "G",
+        "cost": 171.2,
+        "updated": [
+          "E",
+          "F",
+          "H"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 7,
+        "settled": "J",
+        "cost": 182.4,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 8,
+        "settled": "D",
+        "cost": 216.7,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 9,
+        "settled": "I",
+        "cost": 240.39999999999998,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 10,
+        "settled": "F",
+        "cost": 243.1,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 11,
+        "settled": "E",
+        "cost": 281.0,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 12,
+        "settled": "H",
+        "cost": 291.7,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      },
+      {
+        "step": 13,
+        "settled": "L",
+        "cost": 368.20000000000005,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": 216.7,
+          "L": 368.20000000000005,
+          "E": 281.0,
+          "F": 243.1,
+          "H": 291.7,
+          "I": 240.39999999999998,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B",
+          "I": "K",
+          "D": "C",
+          "L": "C",
+          "E": "G",
+          "F": "G",
+          "H": "G"
+        }
+      }
+    ],
+    "M_distance": [
+      {
+        "step": 1,
+        "settled": "A",
+        "cost": 0,
+        "updated": [
+          "B",
+          "G",
+          "K",
+          "M"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": null,
+          "J": null,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A"
+        }
+      },
+      {
+        "step": 2,
+        "settled": "B",
+        "cost": 618.5,
+        "updated": [
+          "C",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1986.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 3,
+        "settled": "M",
+        "cost": 779.5,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 618.5,
+          "K": 829.9,
+          "G": 2053.7,
+          "C": 1497.0,
+          "J": 1986.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 779.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      }
+    ],
+    "M_time": [
+      {
+        "step": 1,
+        "settled": "A",
+        "cost": 0,
+        "updated": [
+          "B",
+          "G",
+          "K",
+          "M"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": null,
+          "J": null,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A"
+        }
+      },
+      {
+        "step": 2,
+        "settled": "B",
+        "cost": 58.7,
+        "updated": [
+          "C",
+          "J"
+        ],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      },
+      {
+        "step": 3,
+        "settled": "M",
+        "cost": 64.5,
+        "updated": [],
+        "distances": {
+          "A": 0,
+          "B": 58.7,
+          "K": 83.3,
+          "G": 171.2,
+          "C": 130.9,
+          "J": 182.4,
+          "D": null,
+          "L": null,
+          "E": null,
+          "F": null,
+          "H": null,
+          "I": null,
+          "M": 64.5
+        },
+        "previous": {
+          "B": "A",
+          "G": "A",
+          "K": "A",
+          "M": "A",
+          "C": "B",
+          "J": "B"
+        }
+      }
+    ]
+  },
+  "google": [
+    {
+      "id": "B",
+      "distance_m": 11300,
+      "eta_min": 22,
+      "via": "Silkboard Double Decker Flyover",
+      "observed_at_utc": "2026-10-17T16:58:40.340Z",
+      "note": "Endpoint ambiguity: Google selected elevated flyover; exclude from direct benchmark",
+      "comparable": false,
+      "origin": [
+        77.592131,
+        12.918222
+      ],
+      "destination": [
+        77.593386,
+        12.916836
+      ],
+      "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.916836,77.593386&travelmode=driving",
+      "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+    },
+    {
+      "id": "C",
+      "distance_m": 1100,
+      "eta_min": 5,
+      "via": "Marenahalli Rd",
+      "observed_at_utc": "2026-10-17T16:58:20.020Z",
+      "note": "Road reference near hospital, not a verified emergency entrance",
+      "comparable": true,
+      "origin": [
+        77.592131,
+        12.918222
+      ],
+      "destination": [
+        77.599899,
+        12.918103
+      ],
+      "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.918103,77.599899&travelmode=driving",
+      "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+    },
+    {
+      "id": "D",
+      "distance_m": 2100,
+      "eta_min": 7,
+      "via": "Bannerghatta Rd",
+      "observed_at_utc": "2026-10-17T16:58:42.529Z",
+      "note": "Road reference near hospital; last-mile access not modeled",
+      "comparable": true,
+      "origin": [
+        77.592131,
+        12.918222
+      ],
+      "destination": [
+        77.600233,
+        12.927949
+      ],
+      "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.927949,77.600233&travelmode=driving",
+      "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+    },
+    {
+      "id": "E",
+      "distance_m": 2500,
+      "eta_min": 8,
+      "via": "Marenahalli Rd and 9th Main Rd",
+      "observed_at_utc": "2026-10-17T16:58:44.741Z",
+      "note": "Recommended route; alternatives displayed 7 min",
+      "comparable": true,
+      "origin": [
+        77.592131,
+        12.918222
+      ],
+      "destination": [
+        77.583869,
+        12.928193
+      ],
+      "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.928193,77.583869&travelmode=driving",
+      "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+    },
+    {
+      "id": "F",
+      "distance_m": 2900,
+      "eta_min": 8,
+      "via": "Marenahalli Rd and 9th Main Rd",
+      "observed_at_utc": "2026-10-17T16:58:47.616Z",
+      "note": "Destination is bus stop near Jayanagar metro, not rail platform",
+      "comparable": true,
+      "origin": [
+        77.592131,
+        12.918222
+      ],
+      "destination": [
+        77.580345,
+        12.928738
+      ],
+      "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.928738,77.580345&travelmode=driving",
+      "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+    },
+    {
+      "id": "G",
+      "distance_m": 2100,
+      "eta_min": 7,
+      "via": "Marenahalli Rd and 4th Main Rd/Rashtriya Vidyalaya Rd",
+      "observed_at_utc": "2026-10-17T16:59:38.110Z",
+      "note": "Snapped road reference near RV Road station",
+      "comparable": true,
+      "origin": [
+        77.592131,
+        12.918222
+      ],
+      "destination": [
+        77.58011,
+        12.921988
+      ],
+      "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.921988,77.58011&travelmode=driving",
+      "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+    },
+    {
+      "id": "H",
+      "distance_m": 2400,
+      "eta_min": 8,
+      "via": "Marenahalli Rd",
+      "observed_at_utc": "2026-10-17T16:59:39.835Z",
+      "note": "Toward Kadirenahalli bus-stop reference",
+      "comparable": true,
+      "origin": [
+        77.592131,
+        12.918222
+      ],
+      "destination": [
+        77.573057,
+        12.916666
+      ],
+      "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.916666,77.573057&travelmode=driving",
+      "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+    },
+    {
+      "id": "I",
+      "distance_m": 1600,
+      "eta_min": 6,
+      "via": "Marenahalli Rd and 24th Main Rd/Aurobindo Marg",
+      "observed_at_utc": "2026-10-17T16:59:41.902Z",
+      "note": "Road reference near theatre",
+      "comparable": true,
+      "origin": [
+        77.592131,
+        12.918222
+      ],
+      "destination": [
+        77.586862,
+        12.911616
+      ],
+      "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.911616,77.586862&travelmode=driving",
+      "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+    },
+    {
+      "id": "J",
+      "distance_m": 1600,
+      "eta_min": 6,
+      "via": "3rd Cross Rd",
+      "observed_at_utc": "2026-10-17T16:59:43.875Z",
+      "note": "Road reference near mall",
+      "comparable": true,
+      "origin": [
+        77.592131,
+        12.918222
+      ],
+      "destination": [
+        77.599821,
+        12.91435
+      ],
+      "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.91435,77.599821&travelmode=driving",
+      "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+    },
+    {
+      "id": "K",
+      "distance_m": 700,
+      "eta_min": 3,
+      "via": "26th Main Rd",
+      "observed_at_utc": "2026-10-17T16:59:45.836Z",
+      "note": "Road reference 67 m from mapped temple point",
+      "comparable": true,
+      "origin": [
+        77.592131,
+        12.918222
+      ],
+      "destination": [
+        77.59391,
+        12.913976
+      ],
+      "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.913976,77.59391&travelmode=driving",
+      "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+    },
+    {
+      "id": "L",
+      "distance_m": 2600,
+      "eta_min": 9,
+      "via": "26th Main Rd",
+      "observed_at_utc": "2026-10-17T16:59:47.792Z",
+      "note": "Road reference 200 m from mapped hospital point; recommended route, 8 min alternative displayed",
+      "comparable": true,
+      "origin": [
+        77.592131,
+        12.918222
+      ],
+      "destination": [
+        77.592567,
+        12.938519
+      ],
+      "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.938519,77.592567&travelmode=driving",
+      "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+    },
+    {
+      "id": "M",
+      "distance_m": 2400,
+      "eta_min": 6,
+      "via": "Silkboard Double Decker Flyover",
+      "observed_at_utc": "2026-10-20T16:05:10.514Z",
+      "note": "Endpoint label matched Dr malathi Manipal hospitals; recommended route uses elevated flyover. Road-level and entrance access were not independently validated.",
+      "comparable": true,
+      "origin": [
+        77.592131,
+        12.918222
+      ],
+      "destination": [
+        77.591897,
+        12.916965
+      ],
+      "url": "https://www.google.com/maps/dir/?api=1&origin=12.918222,77.592131&destination=12.916965,77.591897&travelmode=driving",
+      "source": "Google Maps browser UI; first recommended driving route; Leave now; rounded display values"
+    }
+  ],
+  "study": {
+    "retrieved_local_date": "2026-10-17",
+    "timezone": "Asia/Kolkata",
+    "source_address": "44/4, District Fund Road, behind Smart Bazaar, Kottapalya, Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka 560041",
+    "pairs": [
+      "AB",
+      "AK",
+      "AG",
+      "BC",
+      "BK",
+      "BJ",
+      "CD",
+      "CJ",
+      "CL",
+      "DE",
+      "DL",
+      "EF",
+      "EG",
+      "EL",
+      "FG",
+      "FH",
+      "GH",
+      "GI",
+      "HI",
+      "IK",
+      "IJ",
+      "JK",
+      "AM",
+      "BM",
+      "KM"
+    ],
+    "matrix": {
+      "code": "Ok",
+      "distances": [
+        [
+          0,
+          618.5,
+          1084.2,
+          2282.3,
+          2523.3,
+          2824.1,
+          2053.7,
+          2340.6,
+          1588.4,
+          1573.6,
+          829.9,
+          2496.1,
+          779.5
+        ],
+        [
+          250.7,
+          0,
+          878.5,
+          2076.6,
+          2446.7,
+          2747.5,
+          1977.1,
+          2264,
+          1511.8,
+          1367.9,
+          624.2,
+          2633.6,
+          702.9
+        ],
+        [
+          1387.8,
+          1400,
+          0,
+          1198,
+          3030.4,
+          3324.8,
+          3377.1,
+          3664,
+          2587.3,
+          1434.1,
+          1615.8,
+          3110.9,
+          2102.8
+        ],
+        [
+          2024.2,
+          2035.7,
+          2107,
+          0,
+          2435.5,
+          2724,
+          3403.2,
+          4304.2,
+          3552,
+          2547.3,
+          2247.9,
+          1996.7,
+          2700.8
+        ],
+        [
+          2376.3,
+          2690.7,
+          3156.4,
+          2368.2,
+          0,
+          771.2,
+          1571.5,
+          2470.5,
+          2198.4,
+          3645.8,
+          2902.1,
+          2611.6,
+          2149.3
+        ],
+        [
+          2775.5,
+          3089.9,
+          3555.6,
+          2783.9,
+          454.3,
+          0,
+          1228.6,
+          1974.3,
+          2612.9,
+          4045,
+          3301.3,
+          2595.5,
+          2548.5
+        ],
+        [
+          2358.6,
+          2673,
+          3138.8,
+          3012.9,
+          1131.8,
+          817.5,
+          0,
+          1523.2,
+          2196,
+          3628.1,
+          2884.4,
+          3273,
+          2131.7
+        ],
+        [
+          2471.7,
+          2786.1,
+          3251.8,
+          4449.8,
+          2289.2,
+          1974.9,
+          1511.9,
+          0,
+          2657.1,
+          3741.2,
+          2997.5,
+          4581.2,
+          2244.7
+        ],
+        [
+          2078.2,
+          1925.9,
+          2424.4,
+          3572.6,
+          2319.6,
+          2616.5,
+          1850.1,
+          2137,
+          0,
+          1959,
+          1227.2,
+          3621,
+          1851.2
+        ],
+        [
+          1203.9,
+          953.2,
+          1067.1,
+          2265.1,
+          3399.9,
+          3700.7,
+          2930.3,
+          3217.2,
+          2465,
+          0,
+          1164.6,
+          3489.3,
+          1656.1
+        ],
+        [
+          821.7,
+          571,
+          1069.4,
+          2267.5,
+          3017.6,
+          3318.5,
+          2548.1,
+          2835,
+          1648.3,
+          1017.4,
+          0,
+          3107,
+          1273.9
+        ],
+        [
+          2503.2,
+          2904.6,
+          3370.4,
+          2072.5,
+          2306,
+          2606.8,
+          3737.3,
+          4618.1,
+          3865.9,
+          4380.5,
+          3116,
+          0,
+          3014.7
+        ],
+        [
+          227,
+          541.3,
+          1007.1,
+          2205.1,
+          2446.1,
+          2747,
+          1976.6,
+          2263.5,
+          1511.3,
+          1496.5,
+          752.8,
+          2609.8,
+          0
+        ]
+      ],
+      "destinations": [
+        {
+          "hint": "-aS_ki29gJMHAAAAIwAAAAAAAAAAAAAAGfqfQPBxwUEAAAAAAAAAAAcAAAAjAAAAAAAAAAAAAADnKAEAQ_afBM4dxQBC9Z8Ebh3FAAAA7wkAAAAA",
+          "location": [
+            77.592131,
+            12.918222
+          ],
+          "name": "41st Cross Road- District Fund Road",
+          "distance": 29.84269995
+        },
+        {
+          "hint": "JCyWkf___38GAAAACAAAAF0AAAAFAAAACb5HQfz0A0Ah2CZDl1wVQQYAAAAIAAAAXQAAAAUAAADnKAEAKvufBGQYxQAp-58EPxjFAAQA_xAAAAAA",
+          "location": [
+            77.593386,
+            12.916836
+          ],
+          "name": "Marenahalli Road",
+          "distance": 4.094742648
+        },
+        {
+          "hint": "H-WRgf___3-lAAAArQAAAAQAAAAHAAAAuFIKQw2pu0BJck1AKzW-QKUAAACtAAAABAAAAAcAAADnKAEAmxSgBFcdxQAIEqAEZR3FAAIAHwAAAAAA",
+          "location": [
+            77.599899,
+            12.918103
+          ],
+          "name": "Bannerghatta Road",
+          "distance": 71.52963109
+        },
+        {
+          "hint": "LQKGky4ChpMtAAAACwAAAA8AAAAAAAAA8wH-QeeR4kDe2CJBAAAAAC0AAAALAAAADwAAAAAAAADnKAEA6RWgBM1DxQBqFKAEzEPFAAIAPwsAAAAA",
+          "location": [
+            77.600233,
+            12.927949
+          ],
+          "name": "",
+          "distance": 41.56225006
+        },
+        {
+          "hint": "c_d0knf3dJIiAAAAEgAAAAAAAABcAgAAQ7fhQC4ibEAAAAAA7sn7QhEAAAAJAAAAAAAAAC8BAADnKAEA_dWfBMFExQD91Z8Eq0TFAAAArwUAAAAA",
+          "location": [
+            77.583869,
+            12.928193
+          ],
+          "name": "",
+          "distance": 2.433856703
+        },
+        {
+          "hint": "mSpvgJoqb4AXAAAAAAAAAAAAAAAIAAAA0ekKQgAAAAAAAAAATztEQRcAAAAAAAAAAAAAAAgAAADnKAEAOcifBOJGxQA5yJ8EBEfFAAAA7xAAAAAA",
+          "location": [
+            77.580345,
+            12.928738
+          ],
+          "name": "30th Cross Road",
+          "distance": 3.761414905
+        },
+        {
+          "hint": "vMZxlP___39BAQAAaQEAAAAAAAAaAAAAvvkFQ6ffg0EAAAAAP0wqQUEBAABpAQAAAAAAABoAAADnKAEATsefBIQsxQAPx58EhCzFAAAAfxYAAAAA",
+          "location": [
+            77.58011,
+            12.921988
+          ],
+          "name": "",
+          "distance": 6.836586105
+        },
+        {
+          "hint": "nIAilf___38BAAAADgAAAB0AAAAIAAAA0kARQFt6mUHTzTBC6CZLQQEAAAAOAAAAHQAAAAgAAADnKAEAwaufBLoXxQDNq58ElxfFAAYAvw8AAAAA",
+          "location": [
+            77.573057,
+            12.916666
+          ],
+          "name": "Subramaniapura Road",
+          "distance": 4.085152792
+        },
+        {
+          "hint": "cfU8gQa684wlAAAACgAAAAAAAAAAAAAAUObRQdiF1EAAAAAAAAAAACUAAAAKAAAAAAAAAAAAAADnKAEAruGfBAAExQCI4p8E-APFAAAALwAAAAAA",
+          "location": [
+            77.586862,
+            12.911616
+          ],
+          "name": "23rd Main Road",
+          "distance": 23.67330787
+        },
+        {
+          "hint": "MOWRgf___38IAAAAQgAAAAAAAAAAAAAAfZ8dQUvJfEIAAAAAAAAAAAgAAABCAAAAAAAAAAAAAADnKAEATRSgBK4OxQDeEqAEow7FAAAAbxYAAAAA",
+          "location": [
+            77.599821,
+            12.91435
+          ],
+          "name": "Bannerghatta Road",
+          "distance": 39.84441504
+        },
+        {
+          "hint": "QgLpgDIMV4YAAAAAAwAAAAQAAAAsAAAAAAAAAFW2GUCIaCxASz30QQAAAAADAAAABAAAACwAAADnKAEANv2fBDgNxQDy-p8EDQ7FAAQA7wIAAAAA",
+          "location": [
+            77.59391,
+            12.913976
+          ],
+          "name": "",
+          "distance": 67.20649542
+        },
+        {
+          "hint": "h65chZ4CdpMAAAAAAwAAAAAAAAAAAAAAAAAAAOakqj8AAAAAAAAAAAAAAAADAAAAAAAAAAAAAADnKAEA9_efBBdtxQAr_58EiG3FAAAArw4AAAAA",
+          "location": [
+            77.592567,
+            12.938519
+          ],
+          "name": "",
+          "distance": 200.4959016
+        },
+        {
+          "hint": "-XOVg____38OAAAAHQAAAAAAAAAAAAAAEZvPQZ8izEEAAAAAAAAAAA4AAAAdAAAAAAAAAAAAAAD0KAEAWfWfBOUYxQBg9Z8EoRnFAAAAvwUAAAAA",
+          "location": [
+            77.591897,
+            12.916965
+          ],
+          "name": "Marenahalli Road",
+          "distance": 20.81227902
+        }
+      ],
+      "durations": [
+        [
+          0,
+          58.7,
+          96.4,
+          182.2,
+          198.1,
+          200.8,
+          171.2,
+          157.1,
+          137.2,
+          147.9,
+          83.3,
+          250.9,
+          64.5
+        ],
+        [
+          28.8,
+          0,
+          72.2,
+          158,
+          179.5,
+          182.2,
+          152.6,
+          138.5,
+          118.6,
+          123.7,
+          59.1,
+          243.5,
+          45.9
+        ],
+        [
+          143.4,
+          121.6,
+          0,
+          85.8,
+          274.8,
+          269.3,
+          274.2,
+          260.1,
+          214.3,
+          118,
+          153.4,
+          237.3,
+          167.5
+        ],
+        [
+          199.2,
+          182.7,
+          202.2,
+          0,
+          234.8,
+          236.3,
+          316.6,
+          313.1,
+          293.2,
+          198.3,
+          211.5,
+          174.2,
+          214.5
+        ],
+        [
+          176.6,
+          183.3,
+          221,
+          221.1,
+          0,
+          68.3,
+          150.4,
+          166.3,
+          176.7,
+          272.5,
+          207.9,
+          229.4,
+          146.7
+        ],
+        [
+          202.8,
+          209.5,
+          247.2,
+          248.7,
+          51.6,
+          0,
+          119.4,
+          146.9,
+          203.8,
+          298.7,
+          234.1,
+          222.8,
+          172.9
+        ],
+        [
+          179.8,
+          186.5,
+          224.2,
+          270.1,
+          109.8,
+          71.9,
+          0,
+          120.5,
+          173.8,
+          275.7,
+          211.1,
+          281,
+          149.9
+        ],
+        [
+          206.8,
+          213.5,
+          251.2,
+          337,
+          220.6,
+          182.7,
+          172.6,
+          0,
+          245,
+          302.7,
+          238.1,
+          386.4,
+          176.9
+        ],
+        [
+          173.8,
+          155.1,
+          196,
+          272.3,
+          201.3,
+          197.8,
+          174.4,
+          160.3,
+          0,
+          164.6,
+          141.1,
+          332.5,
+          143.9
+        ],
+        [
+          99.9,
+          71.1,
+          95,
+          180.8,
+          250.6,
+          253.3,
+          223.7,
+          209.6,
+          189.7,
+          0,
+          103.8,
+          310.6,
+          117
+        ],
+        [
+          83.9,
+          55.1,
+          96,
+          181.8,
+          234.6,
+          237.3,
+          207.7,
+          193.6,
+          157.1,
+          108.6,
+          0,
+          287.4,
+          101
+        ],
+        [
+          250.9,
+          262.8,
+          307.5,
+          195,
+          236,
+          226.4,
+          340.5,
+          348.5,
+          328.6,
+          343.9,
+          287.4,
+          0,
+          249.9
+        ],
+        [
+          29.9,
+          36.6,
+          74.3,
+          160.1,
+          183.8,
+          186.5,
+          156.9,
+          142.8,
+          122.9,
+          125.8,
+          61.2,
+          244.6,
+          0
+        ]
+      ],
+      "sources": [
+        {
+          "hint": "-aS_ki29gJMHAAAAIwAAAAAAAAAAAAAAGfqfQPBxwUEAAAAAAAAAAAcAAAAjAAAAAAAAAAAAAADnKAEAQ_afBM4dxQBC9Z8Ebh3FAAAA7wkAAAAA",
+          "location": [
+            77.592131,
+            12.918222
+          ],
+          "name": "41st Cross Road- District Fund Road",
+          "distance": 29.84269995
+        },
+        {
+          "hint": "JCyWkf___38GAAAACAAAAF0AAAAFAAAACb5HQfz0A0Ah2CZDl1wVQQYAAAAIAAAAXQAAAAUAAADnKAEAKvufBGQYxQAp-58EPxjFAAQA_xAAAAAA",
+          "location": [
+            77.593386,
+            12.916836
+          ],
+          "name": "Marenahalli Road",
+          "distance": 4.094742648
+        },
+        {
+          "hint": "H-WRgf___3-lAAAArQAAAAQAAAAHAAAAuFIKQw2pu0BJck1AKzW-QKUAAACtAAAABAAAAAcAAADnKAEAmxSgBFcdxQAIEqAEZR3FAAIAHwAAAAAA",
+          "location": [
+            77.599899,
+            12.918103
+          ],
+          "name": "Bannerghatta Road",
+          "distance": 71.52963109
+        },
+        {
+          "hint": "LQKGky4ChpMtAAAACwAAAA8AAAAAAAAA8wH-QeeR4kDe2CJBAAAAAC0AAAALAAAADwAAAAAAAADnKAEA6RWgBM1DxQBqFKAEzEPFAAIAPwsAAAAA",
+          "location": [
+            77.600233,
+            12.927949
+          ],
+          "name": "",
+          "distance": 41.56225006
+        },
+        {
+          "hint": "c_d0knf3dJIiAAAAEgAAAAAAAABcAgAAQ7fhQC4ibEAAAAAA7sn7QhEAAAAJAAAAAAAAAC8BAADnKAEA_dWfBMFExQD91Z8Eq0TFAAAArwUAAAAA",
+          "location": [
+            77.583869,
+            12.928193
+          ],
+          "name": "",
+          "distance": 2.433856703
+        },
+        {
+          "hint": "mSpvgJoqb4AXAAAAAAAAAAAAAAAIAAAA0ekKQgAAAAAAAAAATztEQRcAAAAAAAAAAAAAAAgAAADnKAEAOcifBOJGxQA5yJ8EBEfFAAAA7xAAAAAA",
+          "location": [
+            77.580345,
+            12.928738
+          ],
+          "name": "30th Cross Road",
+          "distance": 3.761414905
+        },
+        {
+          "hint": "vMZxlP___39BAQAAaQEAAAAAAAAaAAAAvvkFQ6ffg0EAAAAAP0wqQUEBAABpAQAAAAAAABoAAADnKAEATsefBIQsxQAPx58EhCzFAAAAfxYAAAAA",
+          "location": [
+            77.58011,
+            12.921988
+          ],
+          "name": "",
+          "distance": 6.836586105
+        },
+        {
+          "hint": "nIAilf___38BAAAADgAAAB0AAAAIAAAA0kARQFt6mUHTzTBC6CZLQQEAAAAOAAAAHQAAAAgAAADnKAEAwaufBLoXxQDNq58ElxfFAAYAvw8AAAAA",
+          "location": [
+            77.573057,
+            12.916666
+          ],
+          "name": "Subramaniapura Road",
+          "distance": 4.085152792
+        },
+        {
+          "hint": "cfU8gQa684wlAAAACgAAAAAAAAAAAAAAUObRQdiF1EAAAAAAAAAAACUAAAAKAAAAAAAAAAAAAADnKAEAruGfBAAExQCI4p8E-APFAAAALwAAAAAA",
+          "location": [
+            77.586862,
+            12.911616
+          ],
+          "name": "23rd Main Road",
+          "distance": 23.67330787
+        },
+        {
+          "hint": "MOWRgf___38IAAAAQgAAAAAAAAAAAAAAfZ8dQUvJfEIAAAAAAAAAAAgAAABCAAAAAAAAAAAAAADnKAEATRSgBK4OxQDeEqAEow7FAAAAbxYAAAAA",
+          "location": [
+            77.599821,
+            12.91435
+          ],
+          "name": "Bannerghatta Road",
+          "distance": 39.84441504
+        },
+        {
+          "hint": "QgLpgDIMV4YAAAAAAwAAAAQAAAAsAAAAAAAAAFW2GUCIaCxASz30QQAAAAADAAAABAAAACwAAADnKAEANv2fBDgNxQDy-p8EDQ7FAAQA7wIAAAAA",
+          "location": [
+            77.59391,
+            12.913976
+          ],
+          "name": "",
+          "distance": 67.20649542
+        },
+        {
+          "hint": "h65chZ4CdpMAAAAAAwAAAAAAAAAAAAAAAAAAAOakqj8AAAAAAAAAAAAAAAADAAAAAAAAAAAAAADnKAEA9_efBBdtxQAr_58EiG3FAAAArw4AAAAA",
+          "location": [
+            77.592567,
+            12.938519
+          ],
+          "name": "",
+          "distance": 200.4959016
+        },
+        {
+          "hint": "-XOVg____38OAAAAHQAAAAAAAAAAAAAAEZvPQZ8izEEAAAAAAAAAAA4AAAAdAAAAAAAAAAAAAAD0KAEAWfWfBOUYxQBg9Z8EoRnFAAAAvwUAAAAA",
+          "location": [
+            77.591897,
+            12.916965
+          ],
+          "name": "Marenahalli Road",
+          "distance": 20.81227902
+        }
+      ]
+    },
+    "table_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321?annotations=distance,duration",
+    "retrieval_date": "2026-10-17",
+    "model_updated_date": "2026-10-20",
+    "extension_table_url": "https://router.project-osrm.org/table/v1/driving/77.5918744,12.9181257;77.5933846,12.9167987;77.5992404,12.9181171;77.5998498,12.9279480;77.5838685,12.9281714;77.5803450,12.9287715;77.5800465,12.9219877;77.5730685,12.9166305;77.5870800,12.9116079;77.5994538,12.9143393;77.5933299,12.9141893;77.5944105,12.9386321;77.5919041,12.9171534?annotations=distance,duration",
+    "extension_retrieval_date": "2026-10-20",
+    "extension_note": "Original 12 x 12 road-cost matrix is frozen at 17 October 2026. Only row/column M were added from the 20 October routing snapshot."
+  },
+  "human": []
+}

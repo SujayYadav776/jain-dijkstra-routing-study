@@ -1,0 +1,13 @@
+﻿destination,name,distance_route,distance_route_m,distance_route_s,distance_settled,distance_edges_examined,distance_code_median_ms,distance_code_p95_ms,time_route,time_route_m,time_route_s,time_settled,time_edges_examined,time_code_median_ms,time_code_p95_ms,osrm_reference_m,osrm_reference_s,google_recommended_m,google_recommended_min,google_comparable,graph_distance_difference_vs_osrm_percent,graph_time_difference_vs_osrm_percent
+B,Ragigudda bus stop,A-B,618.5,58.7,2,4,0.003338,0.003549,A-B,618.5,58.7,2,4,0.003256,0.005752,618.5,58.7,11300,22,False,0.0,0.0
+C,Jayadeva hospital,A-B-C,1497.0,130.9,5,17,0.007828,0.009289,A-B-C,1497.0,130.9,5,17,0.006654,0.007636,1084.2,96.4,1100,5,True,38.07,35.79
+D,Sagar Hospitals,A-B-C-D,2695.0,216.7,9,34,0.012315,0.015621,A-B-C-D,2695.0,216.7,8,30,0.015875,0.017747,2282.3,182.2,2100,7,True,18.08,18.94
+E,Jayanagar TTMC,A-G-E,3185.5,281.0,11,40,0.017509,0.019126,A-G-E,3185.5,281.0,11,40,0.013897,0.01708,2523.3,198.1,2500,8,True,26.24,41.85
+F,Jayanagar metro bus stop,A-G-F,2871.2,243.1,10,37,0.012372,0.014087,A-G-F,2871.2,243.1,10,37,0.011114,0.013306,2824.1,200.8,2900,8,True,1.67,21.07
+G,RV Road station reference,A-G,2053.7,171.2,7,25,0.01055,0.011452,A-G,2053.7,171.2,6,21,0.009943,0.012152,2053.7,171.2,2100,7,True,0.0,0.0
+H,Banashankari bus stop,A-G-H,3576.9,291.7,12,44,0.01786,0.019268,A-G-H,3576.9,291.7,12,44,0.013179,0.015615,2340.6,157.1,2400,8,True,52.82,85.68
+I,Ranga Shankara,A-K-I,2478.2,240.4,8,30,0.011439,0.012686,A-K-I,2478.2,240.4,9,33,0.012045,0.014078,1588.4,137.2,1600,6,True,56.02,75.22
+J,Gopalan Innovation Mall,A-K-J,1847.3,191.9,6,21,0.010432,0.012152,A-B-J,1986.4,182.4,7,26,0.012725,0.013834,1573.6,147.9,1600,6,True,17.39,23.33
+K,Ragigudda Temple,A-K,829.9,83.3,4,12,0.006967,0.008468,A-K,829.9,83.3,4,12,0.009791,0.014497,829.9,83.3,700,3,True,0.0,0.0
+L,NIMHANS hospital reference,A-B-C-L,4607.9,368.2,13,47,0.018558,0.02502,A-B-C-L,4607.9,368.2,13,47,0.016039,0.019893,2496.1,250.9,2600,9,True,84.6,46.75
+M,"Manipal Hospital, Jayanagar",A-M,779.5,64.5,3,9,0.00613,0.006712,A-M,779.5,64.5,3,9,0.006278,0.008199,779.5,64.5,2400,6,True,0.0,0.0

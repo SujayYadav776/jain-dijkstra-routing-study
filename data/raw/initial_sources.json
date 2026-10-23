@@ -1,0 +1,40 @@
+{
+  "jain": {
+    "markdown": "```json\n[{\"place_id\":250459046,\"licence\":\"Data \u00c2\u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"way\",\"osm_id\":164569256,\"lat\":\"12.9181257\",\"lon\":\"77.5918744\",\"category\":\"amenity\",\"type\":\"university\",\"place_rank\":30,\"importance\":0.32592895108882386,\"addresstype\":\"amenity\",\"name\":\"Jain University\",\"display_name\":\"Jain University, 41st Cross Road- District Fund Road, Marenahalli, Jayanagar 9th Block, Pattabhirama Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560041, India\",\"boundingbox\":[\"12.9175654\",\"12.9186860\",\"77.5915472\",\"77.5922015\"]}]\n```",
+    "metadata": {
+      "scrapeId": "01a14ac8-1eb8-74c8-bd0e-b83e26e13c28",
+      "sourceURL": "https://nominatim.openstreetmap.org/search?q=Jain%20University%20Jayanagar%20Bengaluru&format=jsonv2&limit=3",
+      "url": "https://nominatim.openstreetmap.org/search?q=Jain%20University%20Jayanagar%20Bengaluru&format=jsonv2&limit=3",
+      "statusCode": 200,
+      "contentType": "application/json; charset=utf-8",
+      "timezone": "America/New_York",
+      "proxyUsed": "basic",
+      "cacheState": "miss",
+      "indexId": "75729437-a96c-489d-ad08-e39731051d2e",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    }
+  },
+  "official": {
+    "url": "https://www.jainuniversity.ac.in/contact/top-indian-university-with-best-colleges-with-location-maps",
+    "verified_address": "44/4, District Fund Road, Jayanagar 9th block, Bengaluru 560041"
+  },
+  "D": {
+    "q": "Sagar Hospitals Jayanagar Bengaluru",
+    "url": "https://nominatim.openstreetmap.org/search?q=Sagar%20Hospitals%20Jayanagar%20Bengaluru&format=jsonv2&limit=1",
+    "markdown": "```json\n[{\"place_id\":251949818,\"licence\":\"Data \u00c2\u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"way\",\"osm_id\":442048030,\"lat\":\"12.9279480\",\"lon\":\"77.5998498\",\"category\":\"amenity\",\"type\":\"hospital\",\"place_rank\":30,\"importance\":7.094453345536e-05,\"addresstype\":\"amenity\",\"name\":\"Sagar Hospitals\",\"display_name\":\"Sagar Hospitals, Bannerghatta Road, Jayanagar, Tilak Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560041, India\",\"boundingbox\":[\"12.9275145\",\"12.9282826\",\"77.5993228\",\"77.6003872\"]}]\n```",
+    "metadata": {
+      "scrapeId": "01a14ac8-e89a-73a9-9c12-0a1e1bbd0f02",
+      "sourceURL": "https://nominatim.openstreetmap.org/search?q=Sagar%20Hospitals%20Jayanagar%20Bengaluru&format=jsonv2&limit=1",
+      "url": "https://nominatim.openstreetmap.org/search?q=Sagar%20Hospitals%20Jayanagar%20Bengaluru&format=jsonv2&limit=1",
+      "statusCode": 200,
+      "contentType": "application/json; charset=utf-8",
+      "timezone": "America/New_York",
+      "proxyUsed": "basic",
+      "cacheState": "miss",
+      "indexId": "b04121aa-40cd-42b5-8a10-61aa31aaaed9",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    }
+  }
+}

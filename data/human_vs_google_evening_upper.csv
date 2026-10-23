@@ -1,0 +1,13 @@
+﻿destination,location,human_journey_s,human_journey,google_evening_upper_min,difference_s,departure_date,departure_time,timezone,include_in_summary
+B,Ragigudda bus stop,383,6 min 23 sec,3,203,2026-10-23,18:30,Asia/Kolkata,False
+C,Jayadeva Hospital,588,9 min 48 sec,10,-12,2026-10-23,18:30,Asia/Kolkata,True
+D,Sagar Hospitals,755,12 min 35 sec,14,-85,2026-10-23,18:30,Asia/Kolkata,True
+E,Jayanagar TTMC,896,14 min 56 sec,14,56,2026-10-23,18:30,Asia/Kolkata,True
+F,Jayanagar Metro,1114,18 min 34 sec,20,-86,2026-10-23,18:30,Asia/Kolkata,True
+G,RV Road,803,13 min 23 sec,14,-37,2026-10-23,18:30,Asia/Kolkata,True
+H,Banashankari bus stop,1559,25 min 59 sec,30,-241,2026-10-23,18:30,Asia/Kolkata,True
+I,Ranga Shankara,801,13 min 21 sec,12,81,2026-10-23,18:30,Asia/Kolkata,True
+J,Gopalan Innovation Mall,851,14 min 11 sec,14,11,2026-10-23,18:30,Asia/Kolkata,True
+K,Ragigudda Temple,466,7 min 46 sec,4,226,2026-10-23,18:30,Asia/Kolkata,True
+L,NIMHANS,1052,17 min 32 sec,20,-148,2026-10-23,18:30,Asia/Kolkata,True
+M,Manipal Hospital Jayanagar,439,7 min 19 sec,8,-41,2026-10-23,18:30,Asia/Kolkata,True
